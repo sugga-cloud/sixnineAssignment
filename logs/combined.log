@@ -1,0 +1,943 @@
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T08:22:12.308Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T08:22:12.377Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T08:22:12.379Z"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"crypto-crash-backend","timestamp":"2025-07-26T08:22:14.215Z"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"crypto-crash-backend","timestamp":"2025-07-26T08:22:18.254Z"}
+{"level":"error","message":"Error starting new round: Operation `gamerounds.insertOne()` buffering timed out after 10000ms","service":"crypto-crash-backend","stack":"MongooseError: Operation `gamerounds.insertOne()` buffering timed out after 10000ms\n    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)\n    at Timeout.eval (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:187:23)\n    at <anonymous> (node:internal/timers:253:4719)","timestamp":"2025-07-26T08:22:22.433Z"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"crypto-crash-backend","timestamp":"2025-07-26T08:22:26.407Z"}
+{"level":"error","message":"Error starting new round: Operation `gamerounds.insertOne()` buffering timed out after 10000ms","service":"crypto-crash-backend","stack":"MongooseError: Operation `gamerounds.insertOne()` buffering timed out after 10000ms\n    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)\n    at Timeout.eval (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:187:23)\n    at <anonymous> (node:internal/timers:253:4719)","timestamp":"2025-07-26T08:22:32.340Z"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"crypto-crash-backend","timestamp":"2025-07-26T08:22:34.635Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T11:54:06.928Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T11:54:06.978Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T11:54:06.985Z"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"crypto-crash-backend","timestamp":"2025-07-26T11:54:08.242Z"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"crypto-crash-backend","timestamp":"2025-07-26T11:54:12.030Z"}
+{"level":"error","message":"Error starting new round: Operation `gamerounds.insertOne()` buffering timed out after 10000ms","service":"crypto-crash-backend","stack":"MongooseError: Operation `gamerounds.insertOne()` buffering timed out after 10000ms\n    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)\n    at Timeout.eval (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:187:23)\n    at <anonymous> (node:internal/timers:253:4719)","timestamp":"2025-07-26T11:54:17.015Z"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"crypto-crash-backend","timestamp":"2025-07-26T11:54:20.247Z"}
+{"level":"error","message":"Error starting new round: Operation `gamerounds.insertOne()` buffering timed out after 10000ms","service":"crypto-crash-backend","stack":"MongooseError: Operation `gamerounds.insertOne()` buffering timed out after 10000ms\n    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)\n    at Timeout.eval (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:187:23)\n    at <anonymous> (node:internal/timers:253:4719)","timestamp":"2025-07-26T11:54:26.964Z"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"crypto-crash-backend","timestamp":"2025-07-26T11:54:28.462Z"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"crypto-crash-backend","timestamp":"2025-07-26T11:54:36.671Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T11:56:48.071Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T11:56:48.110Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T11:56:48.116Z"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"crypto-crash-backend","timestamp":"2025-07-26T11:56:50.990Z"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"crypto-crash-backend","timestamp":"2025-07-26T11:56:55.001Z"}
+{"level":"error","message":"Error starting new round: Operation `gamerounds.insertOne()` buffering timed out after 10000ms","service":"crypto-crash-backend","stack":"MongooseError: Operation `gamerounds.insertOne()` buffering timed out after 10000ms\n    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)\n    at Timeout.eval (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:187:23)\n    at <anonymous> (node:internal/timers:253:4719)","timestamp":"2025-07-26T11:56:58.158Z"}
+{"level":"info","message":"GET / - 127.0.0.1","service":"crypto-crash-backend","timestamp":"2025-07-26T11:57:03.191Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:03.433Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:03.517Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:03.523Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:04.665Z"}
+{"level":"info","message":"New round started: round_1753531383446_d0b62112, crash point: 4.161770217342574","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:04.759Z"}
+{"level":"info","message":"Game phase started for round: round_1753531383446_d0b62112","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:07.770Z"}
+{"level":"info","message":"Round ended: round_1753531383446_d0b62112","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:13.507Z"}
+{"level":"info","message":"New round started: round_1753531393508_64a85649, crash point: 4.594846446182825","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:13.568Z"}
+{"level":"info","message":"Game phase started for round: round_1753531393508_64a85649","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:16.570Z"}
+{"level":"info","message":"Round ended: round_1753531393508_64a85649","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:23.517Z"}
+{"level":"info","message":"New round started: round_1753531403519_43afc881, crash point: 17.399399903577887","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:23.577Z"}
+{"level":"info","message":"Game phase started for round: round_1753531403519_43afc881","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:26.586Z"}
+{"level":"info","message":"Round ended: round_1753531403519_43afc881","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:33.546Z"}
+{"level":"info","message":"New round started: round_1753531413586_f223134f, crash point: 4.661791029146177","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:33.651Z"}
+{"level":"info","message":"Game phase started for round: round_1753531413586_f223134f","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:36.662Z"}
+{"level":"info","message":"Round ended: round_1753531413586_f223134f","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:43.630Z"}
+{"level":"info","message":"New round started: round_1753531423632_d5c3afb4, crash point: 2.424067069944366","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:43.724Z"}
+{"level":"info","message":"Game phase started for round: round_1753531423632_d5c3afb4","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:46.739Z"}
+{"level":"info","message":"Round ended: round_1753531423632_d5c3afb4","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:53.524Z"}
+{"level":"info","message":"New round started: round_1753531433525_feb03714, crash point: 13.673639016751828","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:53.581Z"}
+{"level":"info","message":"Game phase started for round: round_1753531433525_feb03714","service":"crypto-crash-backend","timestamp":"2025-07-26T12:03:56.588Z"}
+{"level":"info","message":"Round ended: round_1753531433525_feb03714","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:03.542Z"}
+{"level":"info","message":"New round started: round_1753531443544_1464de26, crash point: 5.916003241529092","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:03.598Z"}
+{"level":"info","message":"Game phase started for round: round_1753531443544_1464de26","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:06.601Z"}
+{"filter":{"_id":"6884c433cdf3db0a2c02f36f"},"level":"error","message":"Error starting new round: No document found for query \"{ _id: new ObjectId('6884c433cdf3db0a2c02f36f') }\" on model \"GameRound\"","numAffected":0,"query":{"_id":"6884c433cdf3db0a2c02f36f"},"result":{"$where":{"_id":"6884c433cdf3db0a2c02f36f"},"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":0,"upsertedId":null},"service":"crypto-crash-backend","stack":"DocumentNotFoundError: No document found for query \"{ _id: new ObjectId('6884c433cdf3db0a2c02f36f') }\" on model \"GameRound\"\n    at C:\\Users\\sazid\\Desktop\\project\\node_modules\\mongoose\\lib\\model.js:545:17\n    at C:\\Users\\sazid\\Desktop\\project\\node_modules\\mongoose\\lib\\model.js:450:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-07-26T12:04:13.563Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:32.857Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:32.947Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:32.950Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:34.078Z"}
+{"level":"info","message":"New round started: round_1753531472874_22957f40, crash point: 20.59461020930895","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:34.198Z"}
+{"level":"info","message":"Game phase started for round: round_1753531472874_22957f40","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:37.201Z"}
+{"level":"info","message":"Round ended: round_1753531472874_22957f40","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:42.929Z"}
+{"level":"info","message":"New round started: round_1753531482932_833da75a, crash point: 11.908941092239985","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:42.989Z"}
+{"level":"info","message":"Game phase started for round: round_1753531482932_833da75a","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:46.005Z"}
+{"level":"info","message":"Round ended: round_1753531482932_833da75a","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:53.009Z"}
+{"level":"info","message":"New round started: round_1753531493013_259c40dd, crash point: 8.071980410647168","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:53.085Z"}
+{"level":"info","message":"Game phase started for round: round_1753531493013_259c40dd","service":"crypto-crash-backend","timestamp":"2025-07-26T12:04:56.095Z"}
+{"level":"info","message":"Round ended: round_1753531493013_259c40dd","service":"crypto-crash-backend","timestamp":"2025-07-26T12:05:02.954Z"}
+{"level":"info","message":"New round started: round_1753531502966_054baa29, crash point: 13.15070305266028","service":"crypto-crash-backend","timestamp":"2025-07-26T12:05:03.022Z"}
+{"level":"info","message":"Game phase started for round: round_1753531502966_054baa29","service":"crypto-crash-backend","timestamp":"2025-07-26T12:05:06.025Z"}
+{"level":"info","message":"Round ended: round_1753531502966_054baa29","service":"crypto-crash-backend","timestamp":"2025-07-26T12:05:12.941Z"}
+{"level":"info","message":"New round started: round_1753531512942_01da7ea8, crash point: 10.118305484832664","service":"crypto-crash-backend","timestamp":"2025-07-26T12:05:12.994Z"}
+{"level":"info","message":"Game phase started for round: round_1753531512942_01da7ea8","service":"crypto-crash-backend","timestamp":"2025-07-26T12:05:16.003Z"}
+{"level":"info","message":"Round ended: round_1753531512942_01da7ea8","service":"crypto-crash-backend","timestamp":"2025-07-26T12:05:23.031Z"}
+{"level":"info","message":"New round started: round_1753531523035_0f2eb748, crash point: 19.310237999322343","service":"crypto-crash-backend","timestamp":"2025-07-26T12:05:23.115Z"}
+{"level":"info","message":"Game phase started for round: round_1753531523035_0f2eb748","service":"crypto-crash-backend","timestamp":"2025-07-26T12:05:26.130Z"}
+{"level":"info","message":"Round ended: round_1753531523035_0f2eb748","service":"crypto-crash-backend","timestamp":"2025-07-26T12:05:32.966Z"}
+{"level":"info","message":"New round started: round_1753531532970_ffb0e062, crash point: 9.849872980240358","service":"crypto-crash-backend","timestamp":"2025-07-26T12:05:33.027Z"}
+{"level":"info","message":"Game phase started for round: round_1753531532970_ffb0e062","service":"crypto-crash-backend","timestamp":"2025-07-26T12:05:36.038Z"}
+{"level":"info","message":"Round ended: round_1753531532970_ffb0e062","service":"crypto-crash-backend","timestamp":"2025-07-26T12:05:42.973Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T12:11:29.072Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T12:11:29.148Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T12:11:29.152Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T12:11:30.147Z"}
+{"level":"info","message":"New round started: round_1753531889090_77ee963e, crash point: 8.058938207833824","service":"crypto-crash-backend","timestamp":"2025-07-26T12:11:30.231Z"}
+{"level":"info","message":"Game phase started for round: round_1753531889090_77ee963e","service":"crypto-crash-backend","timestamp":"2025-07-26T12:11:33.242Z"}
+{"level":"info","message":"Round ended: round_1753531889090_77ee963e","service":"crypto-crash-backend","timestamp":"2025-07-26T12:11:39.332Z"}
+{"level":"info","message":"New round started: round_1753531899466_a140fc49, crash point: 10.312444547084864","service":"crypto-crash-backend","timestamp":"2025-07-26T12:11:39.607Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T12:11:44.130Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T12:11:44.186Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T12:11:44.188Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T12:11:44.998Z"}
+{"level":"info","message":"New round started: round_1753531904139_bee85a15, crash point: 4.157710856304825","service":"crypto-crash-backend","timestamp":"2025-07-26T12:11:45.081Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:05.329Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:05.383Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:05.384Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:06.182Z"}
+{"level":"info","message":"New round started: round_1753531925338_5f569c58, crash point: 3.69875729846095","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:06.249Z"}
+{"level":"info","message":"Game phase started for round: round_1753531925338_5f569c58","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:09.259Z"}
+{"level":"info","message":"Round ended: round_1753531925338_5f569c58","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:15.405Z"}
+{"level":"info","message":"New round started: round_1753531935407_fa652ebc, crash point: 55.67238838753277","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:15.723Z"}
+{"level":"info","message":"GET /api/game/history - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:17.585Z"}
+{"level":"info","message":"GET /favicon.ico - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:17.830Z"}
+{"level":"info","message":"Game phase started for round: round_1753531935407_fa652ebc","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:18.738Z"}
+{"level":"info","message":"Round ended: round_1753531935407_fa652ebc","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:25.403Z"}
+{"level":"info","message":"New round started: round_1753531945405_d3a242e4, crash point: 43.73742955879449","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:25.462Z"}
+{"level":"info","message":"Client connected: dgFdidasThQpFb6EAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:27.316Z"}
+{"level":"info","message":"New player created: player_1753531947271_h6c6b44vd (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:27.592Z"}
+{"level":"info","message":"Player joined: player_1753531947271_h6c6b44vd (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:27.597Z"}
+{"level":"info","message":"Game phase started for round: round_1753531945405_d3a242e4","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:28.463Z"}
+{"level":"info","message":"Round ended: round_1753531945405_d3a242e4","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:35.415Z"}
+{"level":"info","message":"New round started: round_1753531955418_747f41b6, crash point: 18.923471611101352","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:35.478Z"}
+{"level":"info","message":"Game phase started for round: round_1753531955418_747f41b6","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:38.484Z"}
+{"level":"info","message":"Round ended: round_1753531955418_747f41b6","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:45.429Z"}
+{"level":"info","message":"New round started: round_1753531965436_ceed64ee, crash point: 7.374071048931394","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:45.500Z"}
+{"level":"error","message":"Error placing bet: Cannot place bet - round not in betting phase","service":"crypto-crash-backend","stack":"Error: Cannot place bet - round not in betting phase\n    at GameManager.placeBet (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:177:15)\n    at WebSocketHandler.handleBet (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:143:40)\n    at Socket.<anonymous> (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:29:22)\n    at Socket.emit (node:events:519:28)\n    at Socket.emitUntyped (C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\socket.js:697:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-07-26T12:12:47.155Z"}
+{"level":"info","message":"Game phase started for round: round_1753531965436_ceed64ee","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:48.509Z"}
+{"level":"info","message":"Round ended: round_1753531965436_ceed64ee","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:55.500Z"}
+{"level":"info","message":"New round started: round_1753531975501_adedec8e, crash point: 7.659371512999631","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:55.565Z"}
+{"level":"error","message":"Error placing bet: Cannot place bet - round not in betting phase","service":"crypto-crash-backend","stack":"Error: Cannot place bet - round not in betting phase\n    at GameManager.placeBet (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:177:15)\n    at WebSocketHandler.handleBet (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:143:40)\n    at Socket.<anonymous> (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:29:22)\n    at Socket.emit (node:events:519:28)\n    at Socket.emitUntyped (C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\socket.js:697:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-07-26T12:12:56.620Z"}
+{"level":"info","message":"Game phase started for round: round_1753531975501_adedec8e","service":"crypto-crash-backend","timestamp":"2025-07-26T12:12:58.576Z"}
+{"level":"info","message":"Round ended: round_1753531975501_adedec8e","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:05.434Z"}
+{"level":"info","message":"New round started: round_1753531985436_1a363b62, crash point: 22.972507043550067","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:05.595Z"}
+{"level":"error","message":"Error placing bet: Cannot place bet - round not in betting phase","service":"crypto-crash-backend","stack":"Error: Cannot place bet - round not in betting phase\n    at GameManager.placeBet (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:177:15)\n    at WebSocketHandler.handleBet (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:143:40)\n    at Socket.<anonymous> (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:29:22)\n    at Socket.emit (node:events:519:28)\n    at Socket.emitUntyped (C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\socket.js:697:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-07-26T12:13:06.446Z"}
+{"level":"info","message":"Game phase started for round: round_1753531985436_1a363b62","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:08.596Z"}
+{"level":"info","message":"Round ended: round_1753531985436_1a363b62","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:15.438Z"}
+{"level":"info","message":"New round started: round_1753531995439_f5f87c97, crash point: 14.987607284977807","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:15.495Z"}
+{"level":"info","message":"Game phase started for round: round_1753531995439_f5f87c97","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:18.516Z"}
+{"level":"info","message":"Round ended: round_1753531995439_f5f87c97","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:25.474Z"}
+{"level":"info","message":"New round started: round_1753532005481_40ee5b2d, crash point: 10.209883975885106","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:25.539Z"}
+{"level":"info","message":"Game phase started for round: round_1753532005481_40ee5b2d","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:28.549Z"}
+{"level":"info","message":"Round ended: round_1753532005481_40ee5b2d","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:35.498Z"}
+{"level":"info","message":"New round started: round_1753532015502_cd04b653, crash point: 8.376229105294264","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:35.568Z"}
+{"level":"info","message":"Game phase started for round: round_1753532015502_cd04b653","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:38.578Z"}
+{"level":"info","message":"Round ended: round_1753532015502_cd04b653","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:45.497Z"}
+{"level":"info","message":"New round started: round_1753532025498_51effbf8, crash point: 3.175382154733616","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:45.557Z"}
+{"level":"info","message":"Game phase started for round: round_1753532025498_51effbf8","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:48.560Z"}
+{"level":"info","message":"Round ended: round_1753532025498_51effbf8","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:55.505Z"}
+{"level":"info","message":"New round started: round_1753532035506_1cdb7b01, crash point: 7.961252165216009","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:55.559Z"}
+{"level":"info","message":"Game phase started for round: round_1753532035506_1cdb7b01","service":"crypto-crash-backend","timestamp":"2025-07-26T12:13:58.564Z"}
+{"level":"info","message":"Round ended: round_1753532035506_1cdb7b01","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:05.516Z"}
+{"level":"info","message":"New round started: round_1753532045517_cd878c54, crash point: 4.525903626065547","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:05.569Z"}
+{"level":"info","message":"Game phase started for round: round_1753532045517_cd878c54","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:08.584Z"}
+{"level":"info","message":"Round ended: round_1753532045517_cd878c54","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:15.521Z"}
+{"level":"info","message":"New round started: round_1753532055522_fd2580e6, crash point: 9.004461814996215","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:15.577Z"}
+{"level":"info","message":"Game phase started for round: round_1753532055522_fd2580e6","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:18.583Z"}
+{"level":"info","message":"Round ended: round_1753532055522_fd2580e6","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:25.529Z"}
+{"level":"info","message":"New round started: round_1753532065530_a99fb94e, crash point: 4.839789904502766","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:25.582Z"}
+{"level":"info","message":"Game phase started for round: round_1753532065530_a99fb94e","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:28.588Z"}
+{"level":"info","message":"Round ended: round_1753532065530_a99fb94e","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:35.530Z"}
+{"level":"info","message":"New round started: round_1753532075531_e2e9e1d0, crash point: 22.36096083850995","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:35.584Z"}
+{"level":"info","message":"Game phase started for round: round_1753532075531_e2e9e1d0","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:38.593Z"}
+{"level":"info","message":"Round ended: round_1753532075531_e2e9e1d0","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:45.536Z"}
+{"level":"info","message":"New round started: round_1753532085536_a43ed2f1, crash point: 5.575651155568504","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:45.587Z"}
+{"level":"info","message":"Game phase started for round: round_1753532085536_a43ed2f1","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:48.602Z"}
+{"level":"info","message":"Round ended: round_1753532085536_a43ed2f1","service":"crypto-crash-backend","timestamp":"2025-07-26T12:14:55.572Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:05.419Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:05.481Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:05.482Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:06.531Z"}
+{"level":"info","message":"New round started: round_1753537565430_004f751b, crash point: 15.204929554644849","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:06.602Z"}
+{"level":"info","message":"Game phase started for round: round_1753537565430_004f751b","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:09.635Z"}
+{"level":"info","message":"Client connected: LTRhHhzpmVirPFBzAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:09.677Z"}
+{"level":"info","message":"Round ended: round_1753537565430_004f751b","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:15.555Z"}
+{"level":"info","message":"New round started: round_1753537575558_512caf9f, crash point: 11.422553215506369","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:15.621Z"}
+{"level":"info","message":"Game phase started for round: round_1753537575558_512caf9f","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:18.640Z"}
+{"level":"info","message":"Round ended: round_1753537575558_512caf9f","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:25.507Z"}
+{"level":"info","message":"New round started: round_1753537585510_7475d6dd, crash point: 11.2349118502429","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:25.565Z"}
+{"level":"info","message":"Game phase started for round: round_1753537585510_7475d6dd","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:28.572Z"}
+{"level":"info","message":"Round ended: round_1753537585510_7475d6dd","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:35.513Z"}
+{"level":"info","message":"New round started: round_1753537595514_7c26dd0b, crash point: 8.876248004378603","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:35.566Z"}
+{"level":"info","message":"Game phase started for round: round_1753537595514_7c26dd0b","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:38.577Z"}
+{"level":"info","message":"Round ended: round_1753537595514_7c26dd0b","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:45.514Z"}
+{"level":"info","message":"New round started: round_1753537605516_96e7530d, crash point: 9.991978668536886","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:45.566Z"}
+{"level":"info","message":"Game phase started for round: round_1753537605516_96e7530d","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:48.567Z"}
+{"level":"info","message":"Round ended: round_1753537605516_96e7530d","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:55.521Z"}
+{"level":"info","message":"New round started: round_1753537615524_133db05a, crash point: 3.7375315463367684","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:55.577Z"}
+{"level":"info","message":"Game phase started for round: round_1753537615524_133db05a","service":"crypto-crash-backend","timestamp":"2025-07-26T13:46:58.589Z"}
+{"level":"info","message":"Round ended: round_1753537615524_133db05a","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:05.521Z"}
+{"level":"info","message":"New round started: round_1753537625525_865988fa, crash point: 3.610582814950166","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:05.574Z"}
+{"level":"info","message":"Game phase started for round: round_1753537625525_865988fa","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:08.581Z"}
+{"level":"info","message":"Round ended: round_1753537625525_865988fa","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:15.529Z"}
+{"level":"info","message":"New round started: round_1753537635531_cc2ba193, crash point: 1.9567816153114617","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:15.581Z"}
+{"level":"info","message":"Round ended: round_1753537635531_cc2ba193","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:18.279Z"}
+{"level":"info","message":"Game crashed at 1.9567816153114617x for round: round_1753537635531_cc2ba193","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:18.281Z"}
+{"level":"info","message":"Game phase started for round: round_1753537635531_cc2ba193","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:18.592Z"}
+{"level":"info","message":"Round ended: round_1753537635531_cc2ba193","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:25.539Z"}
+{"level":"info","message":"New round started: round_1753537645540_badd80a9, crash point: 49.05035501990915","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:25.589Z"}
+{"level":"info","message":"Game phase started for round: round_1753537645540_badd80a9","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:28.592Z"}
+{"level":"info","message":"Round ended: round_1753537645540_badd80a9","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:35.556Z"}
+{"level":"info","message":"New round started: round_1753537655558_d0a1ffd5, crash point: 3.2499810649064464","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:35.610Z"}
+{"level":"info","message":"Game phase started for round: round_1753537655558_d0a1ffd5","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:38.621Z"}
+{"level":"info","message":"Round ended: round_1753537655558_d0a1ffd5","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:45.565Z"}
+{"level":"info","message":"New round started: round_1753537665566_b9aafcf7, crash point: 9.020984552771543","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:45.627Z"}
+{"level":"info","message":"Game phase started for round: round_1753537665566_b9aafcf7","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:48.635Z"}
+{"level":"info","message":"Round ended: round_1753537665566_b9aafcf7","service":"crypto-crash-backend","timestamp":"2025-07-26T13:47:55.569Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:20.680Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:20.883Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:20.889Z"}
+{"level":"info","message":"Client connected: UiFBiQbAOEiSCHlWAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:22.166Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:22.310Z"}
+{"level":"info","message":"New round started: round_1753538300698_e0148ede, crash point: 10.968462772111648","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:22.410Z"}
+{"level":"info","message":"Game phase started for round: round_1753538300698_e0148ede","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:25.414Z"}
+{"level":"info","message":"Round ended: round_1753538300698_e0148ede","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:30.762Z"}
+{"level":"info","message":"New round started: round_1753538310763_ef4b43b1, crash point: 5.121057950524946","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:30.821Z"}
+{"level":"info","message":"Game phase started for round: round_1753538310763_ef4b43b1","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:33.822Z"}
+{"level":"info","message":"Round ended: round_1753538310763_ef4b43b1","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:40.766Z"}
+{"level":"info","message":"New round started: round_1753538320768_7ec6e498, crash point: 20.879776885884038","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:40.819Z"}
+{"level":"info","message":"Game phase started for round: round_1753538320768_7ec6e498","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:43.827Z"}
+{"level":"info","message":"Round ended: round_1753538320768_7ec6e498","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:50.776Z"}
+{"level":"info","message":"New round started: round_1753538330778_3177ed2d, crash point: 11.112024284244425","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:50.829Z"}
+{"level":"info","message":"Game phase started for round: round_1753538330778_3177ed2d","service":"crypto-crash-backend","timestamp":"2025-07-26T13:58:53.832Z"}
+{"level":"info","message":"Round ended: round_1753538330778_3177ed2d","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:00.806Z"}
+{"level":"info","message":"New round started: round_1753538340807_ccca987d, crash point: 15.119711252634795","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:00.860Z"}
+{"level":"info","message":"Game phase started for round: round_1753538340807_ccca987d","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:03.868Z"}
+{"level":"info","message":"Round ended: round_1753538340807_ccca987d","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:10.803Z"}
+{"level":"info","message":"New round started: round_1753538350814_2b2b6ddf, crash point: 13.242164850712873","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:10.866Z"}
+{"level":"info","message":"Game phase started for round: round_1753538350814_2b2b6ddf","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:13.875Z"}
+{"level":"info","message":"Round ended: round_1753538350814_2b2b6ddf","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:20.810Z"}
+{"level":"info","message":"New round started: round_1753538360850_69ab0e0c, crash point: 17.34329232794038","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:20.904Z"}
+{"level":"info","message":"Game phase started for round: round_1753538360850_69ab0e0c","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:23.921Z"}
+{"level":"info","message":"Round ended: round_1753538360850_69ab0e0c","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:30.813Z"}
+{"level":"info","message":"New round started: round_1753538370815_af39c2bd, crash point: 5.516905484114911","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:30.869Z"}
+{"level":"info","message":"Game phase started for round: round_1753538370815_af39c2bd","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:33.873Z"}
+{"level":"info","message":"Round ended: round_1753538370815_af39c2bd","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:40.816Z"}
+{"level":"info","message":"New round started: round_1753538380817_2e2bee94, crash point: 26.52378010358204","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:40.868Z"}
+{"level":"info","message":"Game phase started for round: round_1753538380817_2e2bee94","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:43.876Z"}
+{"level":"info","message":"Round ended: round_1753538380817_2e2bee94","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:50.825Z"}
+{"level":"info","message":"New round started: round_1753538390827_db884192, crash point: 40.270073872025456","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:50.881Z"}
+{"level":"info","message":"Game phase started for round: round_1753538390827_db884192","service":"crypto-crash-backend","timestamp":"2025-07-26T13:59:53.894Z"}
+{"level":"info","message":"Round ended: round_1753538390827_db884192","service":"crypto-crash-backend","timestamp":"2025-07-26T14:00:00.839Z"}
+{"level":"info","message":"New round started: round_1753538400840_146586ad, crash point: 24.29391490083881","service":"crypto-crash-backend","timestamp":"2025-07-26T14:00:00.889Z"}
+{"level":"info","message":"Game phase started for round: round_1753538400840_146586ad","service":"crypto-crash-backend","timestamp":"2025-07-26T14:00:03.897Z"}
+{"level":"info","message":"Round ended: round_1753538400840_146586ad","service":"crypto-crash-backend","timestamp":"2025-07-26T14:00:10.849Z"}
+{"level":"info","message":"New round started: round_1753538410853_5ced6683, crash point: 16.391789213948677","service":"crypto-crash-backend","timestamp":"2025-07-26T14:00:10.918Z"}
+{"level":"info","message":"Game phase started for round: round_1753538410853_5ced6683","service":"crypto-crash-backend","timestamp":"2025-07-26T14:00:13.923Z"}
+{"level":"info","message":"Round ended: round_1753538410853_5ced6683","service":"crypto-crash-backend","timestamp":"2025-07-26T14:00:20.856Z"}
+{"level":"info","message":"New round started: round_1753538420857_df0e3359, crash point: 12.534937818454791","service":"crypto-crash-backend","timestamp":"2025-07-26T14:00:20.905Z"}
+{"level":"info","message":"Game phase started for round: round_1753538420857_df0e3359","service":"crypto-crash-backend","timestamp":"2025-07-26T14:00:23.916Z"}
+{"level":"info","message":"Round ended: round_1753538420857_df0e3359","service":"crypto-crash-backend","timestamp":"2025-07-26T14:00:30.859Z"}
+{"level":"info","message":"New round started: round_1753538430860_54e6ac58, crash point: 8.330153167202555","service":"crypto-crash-backend","timestamp":"2025-07-26T14:00:30.910Z"}
+{"level":"info","message":"Game phase started for round: round_1753538430860_54e6ac58","service":"crypto-crash-backend","timestamp":"2025-07-26T14:00:33.925Z"}
+{"level":"info","message":"Round ended: round_1753538430860_54e6ac58","service":"crypto-crash-backend","timestamp":"2025-07-26T14:00:40.866Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:08.392Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:08.460Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:08.462Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:09.642Z"}
+{"level":"info","message":"New round started: round_1753538468404_1bcf4e33, crash point: 2.2462004317745112","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:09.720Z"}
+{"level":"info","message":"Game phase started for round: round_1753538468404_1bcf4e33","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:12.795Z"}
+{"level":"info","message":"Client connected: tay0oOxz5zUSD9nsAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:13.062Z"}
+{"level":"info","message":"Round ended: round_1753538468404_1bcf4e33","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:18.472Z"}
+{"level":"info","message":"New round started: round_1753538478474_161ca2e3, crash point: 13.04335516746286","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:18.537Z"}
+{"level":"info","message":"Game phase started for round: round_1753538478474_161ca2e3","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:21.596Z"}
+{"level":"info","message":"Round ended: round_1753538478474_161ca2e3","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:28.479Z"}
+{"level":"info","message":"New round started: round_1753538488481_5896b4bb, crash point: 5.019170791082163","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:28.536Z"}
+{"level":"info","message":"Game phase started for round: round_1753538488481_5896b4bb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:31.583Z"}
+{"level":"info","message":"Round ended: round_1753538488481_5896b4bb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:38.493Z"}
+{"level":"info","message":"New round started: round_1753538498494_c8bb9d35, crash point: 21.44909403213558","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:38.548Z"}
+{"level":"info","message":"Game phase started for round: round_1753538498494_c8bb9d35","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:41.606Z"}
+{"level":"info","message":"Client disconnected: tay0oOxz5zUSD9nsAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:46.614Z"}
+{"level":"info","message":"GET /api/game/history - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:47.539Z"}
+{"level":"info","message":"Round ended: round_1753538498494_c8bb9d35","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:48.508Z"}
+{"level":"error","message":"Safe save error: Can't save() the same doc multiple times in parallel. Document: 6884dfcc33b18acb0797a09c","service":"crypto-crash-backend","stack":"ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 6884dfcc33b18acb0797a09c\n    at model.save (C:\\Users\\sazid\\Desktop\\project\\node_modules\\mongoose\\lib\\model.js:617:20)\n    at GameManager.safeSave (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:277:22)\n    at GameManager.endRound (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:142:16)\n    at GameManager.crashGame (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:119:16)\n    at GameManager.updateMultiplier (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:103:12)\n    at Timeout._onTimeout (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:87:54)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2025-07-26T14:01:48.518Z"}
+{"level":"info","message":"Round ended: round_1753538508510_6f8be11e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:48.521Z"}
+{"level":"info","message":"Game crashed at 1.6239944108032143x for round: round_1753538508510_6f8be11e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:48.521Z"}
+{"level":"info","message":"New round started: round_1753538508510_6f8be11e, crash point: 1.6239944108032143","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:48.562Z"}
+{"level":"info","message":"Game phase started for round: round_1753538508510_6f8be11e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:51.625Z"}
+{"level":"info","message":"Round ended: round_1753538508510_6f8be11e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:57.880Z"}
+{"level":"info","message":"Game crashed at 1.6239944108032143x for round: round_1753538508510_6f8be11e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:57.881Z"}
+{"level":"info","message":"New round started: round_1753538518463_bb36f0f9, crash point: 51.30831503475831","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:58.511Z"}
+{"level":"info","message":"Client connected: ga6-NHhX9IR-BCACAAAD","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:59.612Z"}
+{"level":"info","message":"New player created: player_1753538519580_3ms17eatx (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:59.872Z"}
+{"level":"info","message":"Player joined: player_1753538519580_3ms17eatx (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:01:59.878Z"}
+{"level":"info","message":"Game phase started for round: round_1753538518463_bb36f0f9","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:01.580Z"}
+{"level":"info","message":"Round ended: round_1753538518463_bb36f0f9","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:08.521Z"}
+{"level":"info","message":"New round started: round_1753538528522_3d3e50a7, crash point: 4.580434987703719","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:08.575Z"}
+{"level":"info","message":"Game phase started for round: round_1753538528522_3d3e50a7","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:11.634Z"}
+{"level":"info","message":"Round ended: round_1753538528522_3d3e50a7","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:18.529Z"}
+{"level":"info","message":"New round started: round_1753538538531_0e96aaa1, crash point: 5.187006925516118","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:18.583Z"}
+{"level":"error","message":"Error placing bet: Betting not allowed now","service":"crypto-crash-backend","stack":"Error: Betting not allowed now\n    at GameManager.placeBet (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:148:58)\n    at WebSocketHandler.handleBet (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:143:40)\n    at Socket.<anonymous> (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:29:22)\n    at Socket.emit (node:events:519:28)\n    at Socket.emitUntyped (C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\socket.js:697:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-07-26T14:02:19.541Z"}
+{"level":"info","message":"Game phase started for round: round_1753538538531_0e96aaa1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:21.637Z"}
+{"level":"info","message":"Round ended: round_1753538538531_0e96aaa1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:28.546Z"}
+{"level":"info","message":"New round started: round_1753538548548_8523f7e8, crash point: 3.2750215155441795","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:28.607Z"}
+{"level":"error","message":"Error placing bet: Betting not allowed now","service":"crypto-crash-backend","stack":"Error: Betting not allowed now\n    at GameManager.placeBet (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:148:58)\n    at WebSocketHandler.handleBet (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:143:40)\n    at Socket.<anonymous> (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:29:22)\n    at Socket.emit (node:events:519:28)\n    at Socket.emitUntyped (C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\socket.js:697:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-07-26T14:02:29.817Z"}
+{"level":"info","message":"Game phase started for round: round_1753538548548_8523f7e8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:31.660Z"}
+{"level":"info","message":"GET /.well-known/appspecific/com.chrome.devtools.json - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:36.434Z"}
+{"level":"info","message":"Round ended: round_1753538548548_8523f7e8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:38.637Z"}
+{"level":"info","message":"New round started: round_1753538558656_f345a42c, crash point: 19.65276841849676","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:38.728Z"}
+{"level":"info","message":"Game phase started for round: round_1753538558656_f345a42c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:41.796Z"}
+{"level":"info","message":"Round ended: round_1753538558656_f345a42c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:48.635Z"}
+{"level":"info","message":"New round started: round_1753538568637_7b44d8b4, crash point: 8.447932275940017","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:48.711Z"}
+{"level":"error","message":"Error placing bet: Betting not allowed now","service":"crypto-crash-backend","stack":"Error: Betting not allowed now\n    at GameManager.placeBet (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:148:58)\n    at WebSocketHandler.handleBet (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:143:40)\n    at Socket.<anonymous> (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:29:22)\n    at Socket.emit (node:events:519:28)\n    at Socket.emitUntyped (C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\socket.js:697:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-07-26T14:02:49.746Z"}
+{"level":"info","message":"Game phase started for round: round_1753538568637_7b44d8b4","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:51.788Z"}
+{"level":"info","message":"Round ended: round_1753538568637_7b44d8b4","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:58.638Z"}
+{"level":"info","message":"New round started: round_1753538578639_7a73c38b, crash point: 6.297678538038172","service":"crypto-crash-backend","timestamp":"2025-07-26T14:02:58.686Z"}
+{"level":"info","message":"Game phase started for round: round_1753538578639_7a73c38b","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:01.747Z"}
+{"level":"info","message":"Round ended: round_1753538578639_7a73c38b","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:08.697Z"}
+{"level":"info","message":"New round started: round_1753538588698_1b3c1939, crash point: 2.1143247296554692","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:08.748Z"}
+{"level":"info","message":"Game phase started for round: round_1753538588698_1b3c1939","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:11.810Z"}
+{"level":"info","message":"Round ended: round_1753538588698_1b3c1939","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:18.653Z"}
+{"level":"info","message":"New round started: round_1753538598653_01c98786, crash point: 5.830179840261166","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:18.704Z"}
+{"level":"info","message":"Game phase started for round: round_1753538598653_01c98786","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:21.766Z"}
+{"level":"info","message":"Round ended: round_1753538598653_01c98786","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:28.656Z"}
+{"level":"info","message":"New round started: round_1753538608657_4309b17f, crash point: 73.584716021824","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:28.704Z"}
+{"level":"info","message":"Game phase started for round: round_1753538608657_4309b17f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:31.759Z"}
+{"level":"info","message":"Round ended: round_1753538608657_4309b17f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:38.661Z"}
+{"level":"info","message":"New round started: round_1753538618662_4abaa90c, crash point: 23.881393090201076","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:38.717Z"}
+{"level":"info","message":"Game phase started for round: round_1753538618662_4abaa90c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:41.770Z"}
+{"level":"info","message":"Round ended: round_1753538618662_4abaa90c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:48.663Z"}
+{"level":"info","message":"New round started: round_1753538628664_4d272da9, crash point: 2.4366643653628524","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:48.712Z"}
+{"level":"info","message":"Game phase started for round: round_1753538628664_4d272da9","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:51.779Z"}
+{"level":"info","message":"Round ended: round_1753538628664_4d272da9","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:58.666Z"}
+{"level":"info","message":"New round started: round_1753538638668_f0693591, crash point: 12.36048916185923","service":"crypto-crash-backend","timestamp":"2025-07-26T14:03:58.721Z"}
+{"level":"info","message":"Game phase started for round: round_1753538638668_f0693591","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:01.777Z"}
+{"level":"info","message":"Round ended: round_1753538638668_f0693591","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:08.678Z"}
+{"level":"info","message":"New round started: round_1753538648679_f389cf11, crash point: 17.437230624194477","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:08.729Z"}
+{"level":"info","message":"Game phase started for round: round_1753538648679_f389cf11","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:11.788Z"}
+{"level":"info","message":"Round ended: round_1753538648679_f389cf11","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:18.685Z"}
+{"level":"info","message":"New round started: round_1753538658687_53cc068e, crash point: 18.38027129862795","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:18.741Z"}
+{"level":"info","message":"Game phase started for round: round_1753538658687_53cc068e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:21.791Z"}
+{"level":"info","message":"Round ended: round_1753538658687_53cc068e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:28.696Z"}
+{"level":"info","message":"New round started: round_1753538668696_cd467900, crash point: 2.1942802771978727","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:28.745Z"}
+{"level":"info","message":"Game phase started for round: round_1753538668696_cd467900","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:31.811Z"}
+{"level":"info","message":"Round ended: round_1753538668696_cd467900","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:38.713Z"}
+{"level":"info","message":"New round started: round_1753538678714_ebcee5dd, crash point: 25.78797771946322","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:38.770Z"}
+{"level":"info","message":"Game phase started for round: round_1753538678714_ebcee5dd","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:41.822Z"}
+{"level":"info","message":"Round ended: round_1753538678714_ebcee5dd","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:48.717Z"}
+{"level":"info","message":"New round started: round_1753538688718_333a1afc, crash point: 12.898247851066724","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:48.768Z"}
+{"level":"info","message":"Game phase started for round: round_1753538688718_333a1afc","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:51.818Z"}
+{"level":"info","message":"Round ended: round_1753538688718_333a1afc","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:58.727Z"}
+{"level":"info","message":"New round started: round_1753538698727_71bbf117, crash point: 4.030967976788488","service":"crypto-crash-backend","timestamp":"2025-07-26T14:04:58.776Z"}
+{"level":"info","message":"Game phase started for round: round_1753538698727_71bbf117","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:01.832Z"}
+{"level":"info","message":"Round ended: round_1753538698727_71bbf117","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:08.730Z"}
+{"level":"info","message":"New round started: round_1753538708732_c8902815, crash point: 2.0203680818918484","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:08.781Z"}
+{"level":"info","message":"Game phase started for round: round_1753538708732_c8902815","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:11.841Z"}
+{"level":"info","message":"Round ended: round_1753538708732_c8902815","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:18.758Z"}
+{"level":"info","message":"New round started: round_1753538718761_61f310f0, crash point: 8.761303243930058","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:18.810Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:30.643Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:30.883Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:30.886Z"}
+{"level":"info","message":"Client connected: 8ogMxW-hHADxHqcMAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:31.694Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:32.119Z"}
+{"level":"info","message":"New round started: round_1753538730773_b0ee84b4, crash point: 6.845449627295418","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:32.183Z"}
+{"level":"info","message":"Game phase started for round: round_1753538730773_b0ee84b4","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:35.256Z"}
+{"level":"info","message":"Round ended: round_1753538730773_b0ee84b4","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:40.833Z"}
+{"level":"info","message":"New round started: round_1753538740834_ed0bdf03, crash point: 3.0552508182375444","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:40.895Z"}
+{"level":"info","message":"Game phase started for round: round_1753538740834_ed0bdf03","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:43.945Z"}
+{"level":"info","message":"Client disconnected: 8ogMxW-hHADxHqcMAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:45.406Z"}
+{"level":"info","message":"GET /api/game/history - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:46.252Z"}
+{"level":"info","message":"Round ended: round_1753538740834_ed0bdf03","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:50.843Z"}
+{"level":"info","message":"New round started: round_1753538750845_ecb9688a, crash point: 1.5578148451349128","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:50.901Z"}
+{"level":"info","message":"Round ended: round_1753538750845_ecb9688a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:50.952Z"}
+{"level":"info","message":"Game crashed at 1.5578148451349128x for round: round_1753538750845_ecb9688a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:50.956Z"}
+{"level":"info","message":"Client connected: BAJou-Oyn0EpfhZ8AAAD","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:51.900Z"}
+{"level":"info","message":"New player created: player_1753538751874_sh49xj8jw (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:52.062Z"}
+{"level":"info","message":"Player joined: player_1753538751874_sh49xj8jw (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:52.070Z"}
+{"level":"info","message":"Game phase started for round: round_1753538750845_ecb9688a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:53.978Z"}
+{"level":"info","message":"Round ended: round_1753538750845_ecb9688a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:59.547Z"}
+{"level":"info","message":"Game crashed at 1.5578148451349128x for round: round_1753538750845_ecb9688a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:05:59.550Z"}
+{"level":"info","message":"New round started: round_1753538760799_9d6d2d99, crash point: 25.36855819289535","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:00.874Z"}
+{"level":"info","message":"Game phase started for round: round_1753538760799_9d6d2d99","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:04.019Z"}
+{"level":"info","message":"Round ended: round_1753538760799_9d6d2d99","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:10.857Z"}
+{"level":"info","message":"New round started: round_1753538770860_9efe76fa, crash point: 41.96172621399329","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:10.920Z"}
+{"level":"error","message":"Error placing bet: Betting not allowed now","service":"crypto-crash-backend","stack":"Error: Betting not allowed now\n    at GameManager.placeBet (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:149:58)\n    at WebSocketHandler.handleBet (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:143:40)\n    at Socket.<anonymous> (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:29:22)\n    at Socket.emit (node:events:519:28)\n    at Socket.emitUntyped (C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\socket.js:697:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-07-26T14:06:12.304Z"}
+{"level":"info","message":"Game phase started for round: round_1753538770860_9efe76fa","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:14.088Z"}
+{"level":"info","message":"Round ended: round_1753538770860_9efe76fa","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:20.851Z"}
+{"level":"error","message":"Safe save error: Can't save() the same doc multiple times in parallel. Document: 6884e0dc09bd2355936507e9","service":"crypto-crash-backend","stack":"ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 6884e0dc09bd2355936507e9\n    at model.save (C:\\Users\\sazid\\Desktop\\project\\node_modules\\mongoose\\lib\\model.js:617:20)\n    at GameManager.safeSave (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:278:22)\n    at GameManager.endRound (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:142:16)\n    at GameManager.crashGame (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:119:16)\n    at GameManager.updateMultiplier (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:103:12)\n    at Timeout._onTimeout (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:87:54)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2025-07-26T14:06:20.870Z"}
+{"level":"info","message":"Round ended: round_1753538780852_edcf2357","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:20.874Z"}
+{"level":"info","message":"Game crashed at 1.3537245657294732x for round: round_1753538780852_edcf2357","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:20.875Z"}
+{"level":"info","message":"New round started: round_1753538780852_edcf2357, crash point: 1.3537245657294732","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:20.901Z"}
+{"level":"info","message":"Game phase started for round: round_1753538780852_edcf2357","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:23.998Z"}
+{"level":"info","message":"Round ended: round_1753538780852_edcf2357","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:27.561Z"}
+{"level":"info","message":"Game crashed at 1.3537245657294732x for round: round_1753538780852_edcf2357","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:27.562Z"}
+{"level":"info","message":"New round started: round_1753538790820_eabbc207, crash point: 5.7814669234164455","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:30.869Z"}
+{"level":"info","message":"Game phase started for round: round_1753538790820_eabbc207","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:33.929Z"}
+{"level":"info","message":"Round ended: round_1753538790820_eabbc207","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:40.898Z"}
+{"level":"info","message":"New round started: round_1753538800917_f70c8890, crash point: 5.845630000617686","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:40.968Z"}
+{"level":"info","message":"Game phase started for round: round_1753538800917_f70c8890","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:44.031Z"}
+{"level":"info","message":"Round ended: round_1753538800917_f70c8890","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:50.910Z"}
+{"level":"info","message":"New round started: round_1753538810911_bf13d787, crash point: 10.096335800160325","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:50.969Z"}
+{"level":"info","message":"Game phase started for round: round_1753538810911_bf13d787","service":"crypto-crash-backend","timestamp":"2025-07-26T14:06:54.043Z"}
+{"level":"info","message":"Round ended: round_1753538810911_bf13d787","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:00.917Z"}
+{"level":"info","message":"New round started: round_1753538820918_ca15b4ae, crash point: 44.02540247994765","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:00.967Z"}
+{"level":"info","message":"Game phase started for round: round_1753538820918_ca15b4ae","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:04.025Z"}
+{"level":"info","message":"Round ended: round_1753538820918_ca15b4ae","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:10.931Z"}
+{"level":"info","message":"New round started: round_1753538830933_e943eedb, crash point: 11.586495353833932","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:10.983Z"}
+{"level":"info","message":"Game phase started for round: round_1753538830933_e943eedb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:14.032Z"}
+{"level":"info","message":"Round ended: round_1753538830933_e943eedb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:20.992Z"}
+{"level":"info","message":"New round started: round_1753538841041_679fe980, crash point: 6.994040834968159","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:21.093Z"}
+{"level":"info","message":"Game phase started for round: round_1753538841041_679fe980","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:24.164Z"}
+{"level":"info","message":"Round ended: round_1753538841041_679fe980","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:30.970Z"}
+{"level":"info","message":"New round started: round_1753538850970_ca25f716, crash point: 4.040417912911513","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:31.018Z"}
+{"level":"info","message":"Game phase started for round: round_1753538850970_ca25f716","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:34.116Z"}
+{"level":"info","message":"Round ended: round_1753538850970_ca25f716","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:40.971Z"}
+{"level":"info","message":"New round started: round_1753538860972_b93410d8, crash point: 4.406551625881583","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:41.023Z"}
+{"level":"info","message":"Game phase started for round: round_1753538860972_b93410d8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:44.080Z"}
+{"level":"info","message":"Round ended: round_1753538860972_b93410d8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:50.973Z"}
+{"level":"info","message":"New round started: round_1753538870974_619cfac2, crash point: 8.073821983188756","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:51.022Z"}
+{"level":"info","message":"Game phase started for round: round_1753538870974_619cfac2","service":"crypto-crash-backend","timestamp":"2025-07-26T14:07:54.069Z"}
+{"level":"info","message":"Round ended: round_1753538870974_619cfac2","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:00.982Z"}
+{"level":"info","message":"New round started: round_1753538880983_a2afccfc, crash point: 49.65887931905752","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:01.031Z"}
+{"level":"info","message":"Game phase started for round: round_1753538880983_a2afccfc","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:04.081Z"}
+{"level":"info","message":"Round ended: round_1753538880983_a2afccfc","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:11.043Z"}
+{"level":"info","message":"New round started: round_1753538891043_b84e3533, crash point: 10.38927970061387","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:11.091Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:19.174Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:19.283Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:19.287Z"}
+{"level":"info","message":"Client connected: CTf2oleXAq1nXc8vAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:20.287Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:20.517Z"}
+{"level":"info","message":"New round started: round_1753538899192_4fce16cb, crash point: 2.300890568214184","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:20.599Z"}
+{"level":"info","message":"Game phase started for round: round_1753538899192_4fce16cb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:23.654Z"}
+{"level":"info","message":"Round ended: round_1753538899192_4fce16cb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:29.262Z"}
+{"level":"info","message":"New round started: round_1753538909263_443f1aa1, crash point: 5.051162443936288","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:29.324Z"}
+{"level":"info","message":"Game phase started for round: round_1753538909263_443f1aa1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:32.384Z"}
+{"level":"info","message":"Round ended: round_1753538909263_443f1aa1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:39.270Z"}
+{"level":"error","message":"Safe save error: Can't save() the same doc multiple times in parallel. Document: 6884e167a3c5b09e575b43aa","service":"crypto-crash-backend","stack":"ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 6884e167a3c5b09e575b43aa\n    at model.save (C:\\Users\\sazid\\Desktop\\project\\node_modules\\mongoose\\lib\\model.js:617:20)\n    at GameManager.safeSave (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:278:22)\n    at GameManager.endRound (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:142:16)\n    at GameManager.crashGame (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:119:16)\n    at GameManager.updateMultiplier (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:103:12)\n    at Timeout._onTimeout (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:87:54)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2025-07-26T14:08:39.296Z"}
+{"level":"info","message":"Round ended: round_1753538919272_befd748c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:39.299Z"}
+{"level":"info","message":"Game crashed at 1.5002591517172605x for round: round_1753538919272_befd748c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:39.300Z"}
+{"level":"info","message":"New round started: round_1753538919272_befd748c, crash point: 1.5002591517172605","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:39.329Z"}
+{"level":"info","message":"Game phase started for round: round_1753538919272_befd748c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:42.388Z"}
+{"level":"info","message":"Round ended: round_1753538919272_befd748c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:47.396Z"}
+{"level":"info","message":"Game crashed at 1.5002591517172605x for round: round_1753538919272_befd748c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:47.400Z"}
+{"level":"info","message":"New round started: round_1753538929217_305916a7, crash point: 6.481353285168017","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:49.269Z"}
+{"level":"info","message":"Game phase started for round: round_1753538929217_305916a7","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:52.334Z"}
+{"level":"info","message":"Round ended: round_1753538929217_305916a7","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:59.282Z"}
+{"level":"info","message":"New round started: round_1753538939284_f00919fb, crash point: 1.631737528963416","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:59.335Z"}
+{"level":"info","message":"Round ended: round_1753538939284_f00919fb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:59.392Z"}
+{"level":"info","message":"Game crashed at 1.631737528963416x for round: round_1753538939284_f00919fb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:08:59.393Z"}
+{"level":"info","message":"Game phase started for round: round_1753538939284_f00919fb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:02.401Z"}
+{"level":"info","message":"Round ended: round_1753538939284_f00919fb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:08.731Z"}
+{"level":"info","message":"Game crashed at 1.631737528963416x for round: round_1753538939284_f00919fb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:08.734Z"}
+{"level":"info","message":"New round started: round_1753538949239_ccc14880, crash point: 15.333257543277789","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:09.296Z"}
+{"level":"info","message":"Game phase started for round: round_1753538949239_ccc14880","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:12.353Z"}
+{"level":"info","message":"Round ended: round_1753538949239_ccc14880","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:19.298Z"}
+{"level":"info","message":"New round started: round_1753538959299_2b5228fc, crash point: 3.9618940997141197","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:19.349Z"}
+{"level":"info","message":"Game phase started for round: round_1753538959299_2b5228fc","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:22.666Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:29.854Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:30.248Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:30.253Z"}
+{"level":"info","message":"Client connected: 23kaeTNIjNGgz1ZCAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:30.884Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:31.681Z"}
+{"level":"info","message":"New round started: round_1753538969904_b69bcbb5, crash point: 5.414161481618206","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:31.788Z"}
+{"level":"info","message":"Client disconnected: 23kaeTNIjNGgz1ZCAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:37.033Z"}
+{"level":"info","message":"GET /api/game/history - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:37.288Z"}
+{"level":"info","message":"New round started: round_1753538979918_62442e2d, crash point: 4.135832159922131","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:39.971Z"}
+{"level":"info","message":"Client connected: LZmr8UhRE39fdAmFAAAD","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:41.165Z"}
+{"level":"info","message":"New player created: player_1753538981141_s7rr3unyk (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:41.403Z"}
+{"level":"info","message":"Player joined: player_1753538981141_s7rr3unyk (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:41.409Z"}
+{"level":"info","message":"Game phase started for round: round_1753538979918_62442e2d","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:41.863Z"}
+{"level":"info","message":"Game phase started for round: round_1753538979918_62442e2d","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:49.980Z"}
+{"level":"info","message":"Round ended: round_1753538979918_62442e2d","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:49.988Z"}
+{"level":"info","message":"New round started: round_1753538989989_253e86d1, crash point: 1.1768096223483115","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:50.059Z"}
+{"level":"info","message":"Round ended: round_1753538989989_253e86d1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:51.832Z"}
+{"level":"info","message":"Game crashed at 1.1768096223483115x for round: round_1753538989989_253e86d1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:51.834Z"}
+{"level":"info","message":"New round started: round_1753538999943_4b5e6be8, crash point: 1.0958830467948004","service":"crypto-crash-backend","timestamp":"2025-07-26T14:09:59.997Z"}
+{"level":"info","message":"Game phase started for round: round_1753538999943_4b5e6be8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:00.119Z"}
+{"level":"info","message":"Round ended: round_1753538999943_4b5e6be8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:01.097Z"}
+{"level":"info","message":"Game crashed at 1.0958830467948004x for round: round_1753538999943_4b5e6be8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:01.100Z"}
+{"level":"error","message":"Safe save error: Can't save() the same doc multiple times in parallel. Document: 6884e1c1fe8cd0f5f9d9a1ba","service":"crypto-crash-backend","stack":"ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 6884e1c1fe8cd0f5f9d9a1ba\n    at model.save (C:\\Users\\sazid\\Desktop\\project\\node_modules\\mongoose\\lib\\model.js:617:20)\n    at GameManager.safeSave (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:278:22)\n    at GameManager.startGamePhase (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:85:16)\n    at Timeout._onTimeout (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:62:29)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2025-07-26T14:10:10.007Z"}
+{"level":"info","message":"Game phase started for round: round_1753539009955_c77a020e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:10.013Z"}
+{"level":"info","message":"New round started: round_1753539009955_c77a020e, crash point: 20.77933698281035","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:10.024Z"}
+{"level":"error","message":"Error placing bet: Betting not allowed now","service":"crypto-crash-backend","stack":"Error: Betting not allowed now\n    at GameManager.placeBet (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:149:58)\n    at WebSocketHandler.handleBet (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:143:40)\n    at Socket.<anonymous> (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:29:22)\n    at Socket.emit (node:events:519:28)\n    at Socket.emitUntyped (C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sazid\\Desktop\\project\\node_modules\\socket.io\\dist\\socket.js:697:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-07-26T14:10:10.965Z"}
+{"level":"info","message":"Round ended: round_1753539009955_c77a020e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:20.014Z"}
+{"level":"error","message":"Safe save error: Can't save() the same doc multiple times in parallel. Document: 6884e1ccfe8cd0f5f9d9a1bd","service":"crypto-crash-backend","stack":"ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 6884e1ccfe8cd0f5f9d9a1bd\n    at model.save (C:\\Users\\sazid\\Desktop\\project\\node_modules\\mongoose\\lib\\model.js:617:20)\n    at GameManager.safeSave (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:278:22)\n    at GameManager.startGamePhase (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:85:16)\n    at Timeout._onTimeout (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:62:29)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2025-07-26T14:10:20.025Z"}
+{"level":"info","message":"Game phase started for round: round_1753539020016_7f5c6622","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:20.039Z"}
+{"level":"info","message":"New round started: round_1753539020016_7f5c6622, crash point: 11.226150767814975","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:20.066Z"}
+{"level":"info","message":"Round ended: round_1753539020016_7f5c6622","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:30.008Z"}
+{"level":"info","message":"New round started: round_1753539030010_f948840a, crash point: 17.07103888761278","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:30.068Z"}
+{"level":"info","message":"Game phase started for round: round_1753539030010_f948840a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:30.125Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:46.388Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:46.770Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:46.774Z"}
+{"level":"info","message":"Client connected: JCiduUo6jRa6Zz7oAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:47.345Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:48.183Z"}
+{"level":"info","message":"New round started: round_1753539046411_7bb48dc9, crash point: 10.914594896281832","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:48.300Z"}
+{"level":"info","message":"Game phase started for round: round_1753539046411_7bb48dc9","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:51.366Z"}
+{"level":"info","message":"Round ended: round_1753539046411_7bb48dc9","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:56.467Z"}
+{"level":"info","message":"New round started: round_1753539056468_53fa0471, crash point: 8.070918040999754","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:56.526Z"}
+{"level":"info","message":"Game phase started for round: round_1753539056468_53fa0471","service":"crypto-crash-backend","timestamp":"2025-07-26T14:10:59.593Z"}
+{"level":"info","message":"Round ended: round_1753539056468_53fa0471","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:06.478Z"}
+{"level":"info","message":"New round started: round_1753539066480_1b569fe7, crash point: 4.323485028310085","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:06.540Z"}
+{"level":"info","message":"Game phase started for round: round_1753539066480_1b569fe7","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:09.610Z"}
+{"level":"info","message":"Round ended: round_1753539066480_1b569fe7","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:16.503Z"}
+{"level":"info","message":"New round started: round_1753539076505_f941a5d1, crash point: 7.580845715762106","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:16.568Z"}
+{"level":"info","message":"Game phase started for round: round_1753539076505_f941a5d1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:19.660Z"}
+{"level":"info","message":"Round ended: round_1753539076505_f941a5d1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:26.495Z"}
+{"level":"info","message":"New round started: round_1753539086497_dc95c823, crash point: 2.727929499105817","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:26.556Z"}
+{"level":"info","message":"Game phase started for round: round_1753539086497_dc95c823","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:29.615Z"}
+{"level":"info","message":"Round ended: round_1753539086497_dc95c823","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:36.518Z"}
+{"level":"info","message":"New round started: round_1753539096519_6ec3d618, crash point: 3.312049919642992","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:36.579Z"}
+{"level":"info","message":"Game phase started for round: round_1753539096519_6ec3d618","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:39.641Z"}
+{"level":"info","message":"Round ended: round_1753539096519_6ec3d618","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:46.523Z"}
+{"level":"info","message":"New round started: round_1753539106524_6a9b3cb9, crash point: 4.645577622230933","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:46.582Z"}
+{"level":"info","message":"Game phase started for round: round_1753539106524_6a9b3cb9","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:49.648Z"}
+{"level":"info","message":"Round ended: round_1753539106524_6a9b3cb9","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:56.527Z"}
+{"level":"error","message":"Safe save error: Can't save() the same doc multiple times in parallel. Document: 6884e22c197c8f6caf1f8bc4","service":"crypto-crash-backend","stack":"ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 6884e22c197c8f6caf1f8bc4\n    at model.save (C:\\Users\\sazid\\Desktop\\project\\node_modules\\mongoose\\lib\\model.js:617:20)\n    at GameManager.safeSave (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:278:22)\n    at GameManager.endRound (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:142:16)\n    at GameManager.crashGame (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:119:16)\n    at GameManager.updateMultiplier (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:103:12)\n    at Timeout._onTimeout (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:87:54)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2025-07-26T14:11:56.574Z"}
+{"level":"info","message":"Round ended: round_1753539116528_e761a427","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:56.578Z"}
+{"level":"info","message":"Game crashed at 1.6798065517316851x for round: round_1753539116528_e761a427","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:56.579Z"}
+{"level":"info","message":"New round started: round_1753539116528_e761a427, crash point: 1.6798065517316851","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:56.582Z"}
+{"level":"info","message":"Game phase started for round: round_1753539116528_e761a427","service":"crypto-crash-backend","timestamp":"2025-07-26T14:11:59.652Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:08.768Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:09.382Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:09.420Z"}
+{"level":"info","message":"Client connected: JbM92fgTxQfFKSYzAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:09.612Z"}
+{"level":"info","message":"Client disconnected: JbM92fgTxQfFKSYzAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:10.186Z"}
+{"level":"info","message":"GET /api/game/history - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:10.787Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:11.214Z"}
+{"level":"info","message":"New round started: round_1753539128926_df822c84, crash point: 25.92846972783658","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:11.314Z"}
+{"level":"info","message":"Client connected: 41pVA2yiq0KJbBtvAAAD","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:14.126Z"}
+{"level":"info","message":"Game phase started for round: round_1753539128926_df822c84","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:14.400Z"}
+{"level":"info","message":"New player created: player_1753539134106_67aff93b7 (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:14.450Z"}
+{"level":"info","message":"Player joined: player_1753539134106_67aff93b7 (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:14.468Z"}
+{"level":"info","message":"Round ended: round_1753539128926_df822c84","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:19.000Z"}
+{"level":"info","message":"New round started: round_1753539139004_1ab44739, crash point: 18.591810701486754","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:19.070Z"}
+{"level":"info","message":"Fetched price for BTC: $118189","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:20.472Z"}
+{"level":"error","message":"Error placing bet: Insufficient balance","service":"crypto-crash-backend","stack":"Error: Insufficient balance\n    at GameManager.placeBet (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:157:74)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async WebSocketHandler.handleBet (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:143:17)\n    at async Socket.<anonymous> (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:29:11)","timestamp":"2025-07-26T14:12:20.543Z"}
+{"level":"info","message":"Game phase started for round: round_1753539139004_1ab44739","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:22.140Z"}
+{"level":"info","message":"Round ended: round_1753539139004_1ab44739","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:29.016Z"}
+{"level":"info","message":"New round started: round_1753539149022_36927e65, crash point: 34.236086251123474","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:29.093Z"}
+{"level":"info","message":"POST /api/wallet/deposit - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:30.938Z"}
+{"level":"info","message":"Fetched price for BTC: $118189","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:31.203Z"}
+{"level":"info","message":"Deposit processed: player_1753539134106_67aff93b7 - 123 BTC","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:31.341Z"}
+{"level":"info","message":"GET /api/wallet/balance/player_1753539134106_67aff93b7 - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:31.360Z"}
+{"level":"info","message":"Fetched price for ETH: $3746.12","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:31.805Z"}
+{"level":"info","message":"Game phase started for round: round_1753539149022_36927e65","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:32.240Z"}
+{"level":"info","message":"Round ended: round_1753539149022_36927e65","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:39.013Z"}
+{"level":"info","message":"New round started: round_1753539159014_d9e1b700, crash point: 48.3196659787504","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:39.078Z"}
+{"level":"info","message":"Fetched price for BTC: $118189","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:40.023Z"}
+{"level":"info","message":"Bet handled via WebSocket: player_1753539134106_67aff93b7 - $12","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:40.302Z"}
+{"level":"info","message":"GET /api/wallet/balance/player_1753539134106_67aff93b7 - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:40.320Z"}
+{"level":"info","message":"Game phase started for round: round_1753539159014_d9e1b700","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:42.141Z"}
+{"level":"info","message":"Cashout handled via WebSocket: player_1753539134106_67aff93b7 - 1.0787x","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:43.292Z"}
+{"level":"info","message":"GET /api/wallet/balance/player_1753539134106_67aff93b7 - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:43.307Z"}
+{"level":"info","message":"Fetched price for BTC: $118197","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:43.824Z"}
+{"level":"error","message":"Error fetching price for ETH:","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:43.873Z"}
+{"level":"warn","message":"Using expired cached price for ETH: $3746.12","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:43.877Z"}
+{"level":"info","message":"Round ended: round_1753539159014_d9e1b700","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:49.033Z"}
+{"level":"info","message":"New round started: round_1753539169035_38b8b380, crash point: 7.574954050450209","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:49.099Z"}
+{"level":"error","message":"Error fetching price for BTC:","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:50.269Z"}
+{"level":"warn","message":"Using expired cached price for BTC: $118189","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:50.272Z"}
+{"level":"info","message":"Bet handled via WebSocket: player_1753539134106_67aff93b7 - $12","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:50.548Z"}
+{"level":"info","message":"GET /api/wallet/balance/player_1753539134106_67aff93b7 - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:50.569Z"}
+{"level":"error","message":"Error fetching price for ETH:","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:50.691Z"}
+{"level":"warn","message":"Using expired cached price for ETH: $3746.12","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:50.693Z"}
+{"level":"info","message":"Game phase started for round: round_1753539169035_38b8b380","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:52.167Z"}
+{"level":"info","message":"Round ended: round_1753539169035_38b8b380","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:59.177Z"}
+{"level":"info","message":"New round started: round_1753539179179_4588824f, crash point: 1.742259092002635","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:59.246Z"}
+{"level":"info","message":"Round ended: round_1753539179179_4588824f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:59.592Z"}
+{"level":"info","message":"Game crashed at 1.742259092002635x for round: round_1753539179179_4588824f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:12:59.594Z"}
+{"level":"info","message":"Game phase started for round: round_1753539179179_4588824f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:02.343Z"}
+{"level":"info","message":"Round ended: round_1753539179179_4588824f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:09.057Z"}
+{"level":"info","message":"New round started: round_1753539189060_fa620fb4, crash point: 3.0528729802921752","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:09.123Z"}
+{"level":"error","message":"Error fetching price for BTC:","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:10.342Z"}
+{"level":"warn","message":"Using expired cached price for BTC: $118189","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:10.344Z"}
+{"level":"info","message":"Bet handled via WebSocket: player_1753539134106_67aff93b7 - $12","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:10.626Z"}
+{"level":"info","message":"GET /api/wallet/balance/player_1753539134106_67aff93b7 - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:10.714Z"}
+{"level":"error","message":"Error fetching price for BTC:","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:11.191Z"}
+{"level":"warn","message":"Using expired cached price for BTC: $118197","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:11.238Z"}
+{"level":"error","message":"Error fetching price for ETH:","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:11.441Z"}
+{"level":"warn","message":"Using expired cached price for ETH: $3746.12","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:11.444Z"}
+{"level":"info","message":"Game phase started for round: round_1753539189060_fa620fb4","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:12.202Z"}
+{"level":"info","message":"Round ended: round_1753539189060_fa620fb4","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:19.139Z"}
+{"level":"info","message":"New round started: round_1753539199140_4b05bb15, crash point: 3.4271942001962064","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:19.200Z"}
+{"level":"info","message":"Game phase started for round: round_1753539199140_4b05bb15","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:22.258Z"}
+{"level":"info","message":"Round ended: round_1753539199140_4b05bb15","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:29.042Z"}
+{"level":"info","message":"New round started: round_1753539209043_1a50c377, crash point: 27.626946470094452","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:29.108Z"}
+{"level":"error","message":"Error fetching price for BTC:","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:30.424Z"}
+{"level":"warn","message":"Using expired cached price for BTC: $118189","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:30.433Z"}
+{"level":"info","message":"Bet handled via WebSocket: player_1753539134106_67aff93b7 - $122","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:30.825Z"}
+{"level":"info","message":"GET /api/wallet/balance/player_1753539134106_67aff93b7 - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:31.004Z"}
+{"level":"error","message":"Error fetching price for BTC:","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:31.143Z"}
+{"level":"warn","message":"Using expired cached price for BTC: $118197","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:31.156Z"}
+{"level":"error","message":"Error fetching price for ETH:","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:31.215Z"}
+{"level":"warn","message":"Using expired cached price for ETH: $3746.12","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:31.249Z"}
+{"level":"info","message":"Game phase started for round: round_1753539209043_1a50c377","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:32.182Z"}
+{"level":"info","message":"Round ended: round_1753539209043_1a50c377","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:39.156Z"}
+{"level":"info","message":"New round started: round_1753539219157_d301f82b, crash point: 25.341530043214018","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:39.221Z"}
+{"level":"info","message":"Game phase started for round: round_1753539219157_d301f82b","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:42.282Z"}
+{"level":"info","message":"Round ended: round_1753539219157_d301f82b","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:49.076Z"}
+{"level":"info","message":"New round started: round_1753539229081_a2b180e6, crash point: 12.739701575979048","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:49.152Z"}
+{"level":"info","message":"Fetched price for BTC: $118200","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:51.252Z"}
+{"level":"info","message":"Bet handled via WebSocket: player_1753539134106_67aff93b7 - $122","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:51.544Z"}
+{"level":"info","message":"GET /api/wallet/balance/player_1753539134106_67aff93b7 - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:51.565Z"}
+{"level":"info","message":"Fetched price for BTC: $118200","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:51.694Z"}
+{"level":"info","message":"Fetched price for ETH: $3746.43","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:52.058Z"}
+{"level":"info","message":"Game phase started for round: round_1753539229081_a2b180e6","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:52.231Z"}
+{"level":"info","message":"Round ended: round_1753539229081_a2b180e6","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:59.177Z"}
+{"level":"info","message":"New round started: round_1753539239178_030f2b9f, crash point: 5.7257472744087705","service":"crypto-crash-backend","timestamp":"2025-07-26T14:13:59.240Z"}
+{"level":"info","message":"Game phase started for round: round_1753539239178_030f2b9f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:02.306Z"}
+{"level":"info","message":"Round ended: round_1753539239178_030f2b9f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:09.072Z"}
+{"level":"info","message":"New round started: round_1753539249073_61552bd7, crash point: 23.200241773689427","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:09.129Z"}
+{"level":"info","message":"Game phase started for round: round_1753539249073_61552bd7","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:12.188Z"}
+{"level":"info","message":"Round ended: round_1753539249073_61552bd7","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:19.072Z"}
+{"level":"info","message":"New round started: round_1753539259074_d7079be0, crash point: 9.241086352329067","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:19.135Z"}
+{"level":"info","message":"Game phase started for round: round_1753539259074_d7079be0","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:22.203Z"}
+{"level":"info","message":"Round ended: round_1753539259074_d7079be0","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:29.074Z"}
+{"level":"info","message":"New round started: round_1753539269076_8720b859, crash point: 7.54248668539274","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:29.136Z"}
+{"level":"info","message":"Game phase started for round: round_1753539269076_8720b859","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:32.204Z"}
+{"level":"info","message":"Round ended: round_1753539269076_8720b859","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:39.080Z"}
+{"level":"info","message":"New round started: round_1753539279081_70f14c27, crash point: 6.994629752403717","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:39.142Z"}
+{"level":"info","message":"Game phase started for round: round_1753539279081_70f14c27","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:42.203Z"}
+{"level":"info","message":"Round ended: round_1753539279081_70f14c27","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:49.082Z"}
+{"level":"info","message":"New round started: round_1753539289084_d16b360f, crash point: 5.534018625335512","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:49.143Z"}
+{"level":"info","message":"Game phase started for round: round_1753539289084_d16b360f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:52.208Z"}
+{"level":"info","message":"Round ended: round_1753539289084_d16b360f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:59.090Z"}
+{"level":"info","message":"New round started: round_1753539299091_9d56edc9, crash point: 7.102643686024483","service":"crypto-crash-backend","timestamp":"2025-07-26T14:14:59.155Z"}
+{"level":"info","message":"Game phase started for round: round_1753539299091_9d56edc9","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:02.211Z"}
+{"level":"info","message":"Round ended: round_1753539299091_9d56edc9","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:09.098Z"}
+{"level":"info","message":"New round started: round_1753539309099_44b6813f, crash point: 5.616158278700334","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:09.157Z"}
+{"level":"info","message":"Game phase started for round: round_1753539309099_44b6813f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:12.224Z"}
+{"level":"info","message":"Round ended: round_1753539309099_44b6813f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:19.111Z"}
+{"level":"info","message":"New round started: round_1753539319112_461af748, crash point: 11.653409436290612","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:19.242Z"}
+{"level":"info","message":"Game phase started for round: round_1753539319112_461af748","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:22.301Z"}
+{"level":"info","message":"Round ended: round_1753539319112_461af748","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:29.129Z"}
+{"level":"info","message":"New round started: round_1753539329129_75ec9640, crash point: 2.361393180321439","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:29.186Z"}
+{"level":"info","message":"Game phase started for round: round_1753539329129_75ec9640","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:32.252Z"}
+{"level":"info","message":"Round ended: round_1753539329129_75ec9640","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:39.123Z"}
+{"level":"info","message":"New round started: round_1753539339125_58a32e0f, crash point: 9.170324429322338","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:39.182Z"}
+{"level":"info","message":"Game phase started for round: round_1753539339125_58a32e0f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:42.249Z"}
+{"level":"info","message":"Round ended: round_1753539339125_58a32e0f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:49.125Z"}
+{"level":"info","message":"New round started: round_1753539349125_379e5a8e, crash point: 17.495689105119542","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:49.179Z"}
+{"level":"info","message":"Game phase started for round: round_1753539349125_379e5a8e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:15:52.236Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:03.506Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:03.902Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:03.980Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:05.484Z"}
+{"level":"info","message":"New round started: round_1753539363535_9258bb73, crash point: 9.709563361065095","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:05.604Z"}
+{"level":"info","message":"Client connected: nq_OeQk0PjqJtSS3AAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:06.441Z"}
+{"level":"info","message":"Game phase started for round: round_1753539363535_9258bb73","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:08.672Z"}
+{"level":"info","message":"Client disconnected: nq_OeQk0PjqJtSS3AAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:09.080Z"}
+{"level":"info","message":"GET /api/game/history - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:09.334Z"}
+{"level":"info","message":"Client connected: uGMeo3uR6byd24DRAAAD","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:13.570Z"}
+{"level":"info","message":"Round ended: round_1753539363535_9258bb73","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:13.604Z"}
+{"level":"info","message":"New round started: round_1753539373692_fcd2119e, crash point: 15.36592278854644","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:13.748Z"}
+{"level":"info","message":"New player created: player_1753539373555_m1n87t3e3 (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:13.827Z"}
+{"level":"info","message":"Player joined: player_1753539373555_m1n87t3e3 (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:13.834Z"}
+{"level":"info","message":"Game phase started for round: round_1753539373692_fcd2119e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:16.803Z"}
+{"level":"info","message":"Round ended: round_1753539373692_fcd2119e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:23.611Z"}
+{"level":"info","message":"New round started: round_1753539383614_d0ce2c52, crash point: 18.10539930645363","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:23.670Z"}
+{"level":"info","message":"POST /api/wallet/deposit - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:26.436Z"}
+{"level":"info","message":"Deposit processed: player_1753539373555_m1n87t3e3 - 100 USDT","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:26.638Z"}
+{"level":"info","message":"GET /api/wallet/balance/player_1753539373555_m1n87t3e3 - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:26.701Z"}
+{"level":"info","message":"Game phase started for round: round_1753539383614_d0ce2c52","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:26.737Z"}
+{"level":"info","message":"Fetched price for BTC: $118191","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:27.065Z"}
+{"level":"info","message":"Fetched price for ETH: $3744.91","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:27.442Z"}
+{"level":"info","message":"Round ended: round_1753539383614_d0ce2c52","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:33.615Z"}
+{"level":"info","message":"New round started: round_1753539393618_c27cd0e0, crash point: 21.804518419277304","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:33.676Z"}
+{"level":"info","message":"Game phase started for round: round_1753539393618_c27cd0e0","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:36.757Z"}
+{"level":"info","message":"Round ended: round_1753539393618_c27cd0e0","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:43.625Z"}
+{"level":"info","message":"New round started: round_1753539403628_4b2fd054, crash point: 2.2449443644153817","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:43.683Z"}
+{"level":"info","message":"Fetched price for BTC: $118191","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:44.731Z"}
+{"level":"error","message":"Error placing bet: Insufficient balance","service":"crypto-crash-backend","stack":"Error: Insufficient balance\n    at GameManager.placeBet (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:159:74)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async WebSocketHandler.handleBet (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:143:17)\n    at async Socket.<anonymous> (C:\\Users\\sazid\\Desktop\\project\\services\\WebSocketHandler.js:29:11)","timestamp":"2025-07-26T14:16:44.795Z"}
+{"level":"info","message":"Game phase started for round: round_1753539403628_4b2fd054","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:46.735Z"}
+{"level":"info","message":"Round ended: round_1753539403628_4b2fd054","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:53.622Z"}
+{"level":"info","message":"New round started: round_1753539413624_75c62aeb, crash point: 6.5805523818601515","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:53.676Z"}
+{"level":"info","message":"Bet handled via WebSocket: player_1753539373555_m1n87t3e3 - $12","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:54.776Z"}
+{"level":"info","message":"GET /api/wallet/balance/player_1753539373555_m1n87t3e3 - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:54.818Z"}
+{"level":"info","message":"Fetched price for BTC: $118191","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:55.059Z"}
+{"level":"info","message":"Fetched price for ETH: $3744.91","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:55.135Z"}
+{"level":"info","message":"Game phase started for round: round_1753539413624_75c62aeb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:16:56.738Z"}
+{"level":"info","message":"Round ended: round_1753539413624_75c62aeb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:03.717Z"}
+{"level":"info","message":"New round started: round_1753539423719_3ef64fca, crash point: 13.240098726656445","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:03.773Z"}
+{"level":"info","message":"Game phase started for round: round_1753539423719_3ef64fca","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:06.842Z"}
+{"level":"info","message":"Round ended: round_1753539423719_3ef64fca","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:13.631Z"}
+{"level":"info","message":"New round started: round_1753539433633_c6a1f23f, crash point: 12.869901628831974","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:13.682Z"}
+{"level":"info","message":"Game phase started for round: round_1753539433633_c6a1f23f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:16.733Z"}
+{"level":"info","message":"GET /.well-known/appspecific/com.chrome.devtools.json - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:20.631Z"}
+{"level":"info","message":"Round ended: round_1753539433633_c6a1f23f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:23.664Z"}
+{"level":"info","message":"New round started: round_1753539443669_817104ba, crash point: 9.22154515927068","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:23.734Z"}
+{"level":"info","message":"Game phase started for round: round_1753539443669_817104ba","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:26.816Z"}
+{"level":"info","message":"Round ended: round_1753539443669_817104ba","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:33.645Z"}
+{"level":"info","message":"New round started: round_1753539453646_c301dcc2, crash point: 9.143500226808259","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:33.693Z"}
+{"level":"info","message":"Game phase started for round: round_1753539453646_c301dcc2","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:36.746Z"}
+{"level":"info","message":"Round ended: round_1753539453646_c301dcc2","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:43.665Z"}
+{"level":"info","message":"New round started: round_1753539463677_9b83f239, crash point: 10.295160096960915","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:43.750Z"}
+{"level":"info","message":"Game phase started for round: round_1753539463677_9b83f239","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:46.822Z"}
+{"level":"info","message":"Round ended: round_1753539463677_9b83f239","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:53.681Z"}
+{"level":"info","message":"New round started: round_1753539473685_494c9d87, crash point: 2.839410571556239","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:53.732Z"}
+{"level":"info","message":"Game phase started for round: round_1753539473685_494c9d87","service":"crypto-crash-backend","timestamp":"2025-07-26T14:17:56.804Z"}
+{"level":"info","message":"Round ended: round_1753539473685_494c9d87","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:03.741Z"}
+{"level":"error","message":"Safe save error: Can't save() the same doc multiple times in parallel. Document: 6884e39b9deb855fd0034046","service":"crypto-crash-backend","stack":"ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 6884e39b9deb855fd0034046\n    at model.save (C:\\Users\\sazid\\Desktop\\project\\node_modules\\mongoose\\lib\\model.js:617:20)\n    at GameManager.safeSave (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:282:22)\n    at GameManager.endRound (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:142:16)\n    at GameManager.crashGame (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:119:16)\n    at GameManager.updateMultiplier (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:103:12)\n    at Timeout._onTimeout (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:87:54)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2025-07-26T14:18:03.821Z"}
+{"level":"info","message":"Round ended: round_1753539483775_ac1abf10","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:03.874Z"}
+{"level":"info","message":"Game crashed at 1.3824301856431647x for round: round_1753539483775_ac1abf10","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:03.884Z"}
+{"level":"info","message":"New round started: round_1753539483775_ac1abf10, crash point: 1.3824301856431647","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:03.914Z"}
+{"level":"info","message":"Game phase started for round: round_1753539483775_ac1abf10","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:06.981Z"}
+{"level":"info","message":"Round ended: round_1753539483775_ac1abf10","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:10.829Z"}
+{"level":"info","message":"Game crashed at 1.3824301856431647x for round: round_1753539483775_ac1abf10","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:10.935Z"}
+{"level":"info","message":"New round started: round_1753539493655_d9f28244, crash point: 4.443592382653221","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:13.704Z"}
+{"level":"info","message":"Game phase started for round: round_1753539493655_d9f28244","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:16.774Z"}
+{"level":"info","message":"Round ended: round_1753539493655_d9f28244","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:23.710Z"}
+{"level":"info","message":"New round started: round_1753539503713_e428493e, crash point: 3.246015237402302","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:23.761Z"}
+{"level":"info","message":"Game phase started for round: round_1753539503713_e428493e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:26.821Z"}
+{"level":"info","message":"Round ended: round_1753539503713_e428493e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:33.759Z"}
+{"level":"error","message":"Safe save error: Can't save() the same doc multiple times in parallel. Document: 6884e3b99deb855fd0034052","service":"crypto-crash-backend","stack":"ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 6884e3b99deb855fd0034052\n    at model.save (C:\\Users\\sazid\\Desktop\\project\\node_modules\\mongoose\\lib\\model.js:617:20)\n    at GameManager.safeSave (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:282:22)\n    at GameManager.endRound (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:142:16)\n    at GameManager.crashGame (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:119:16)\n    at GameManager.updateMultiplier (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:103:12)\n    at Timeout._onTimeout (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:87:54)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2025-07-26T14:18:33.846Z"}
+{"level":"info","message":"Round ended: round_1753539513832_c98332f4","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:33.884Z"}
+{"level":"info","message":"Game crashed at 1.5582699722964457x for round: round_1753539513832_c98332f4","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:33.893Z"}
+{"level":"info","message":"New round started: round_1753539513832_c98332f4, crash point: 1.5582699722964457","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:33.969Z"}
+{"level":"info","message":"Game phase started for round: round_1753539513832_c98332f4","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:37.079Z"}
+{"level":"info","message":"Round ended: round_1753539513832_c98332f4","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:42.615Z"}
+{"level":"info","message":"Game crashed at 1.5582699722964457x for round: round_1753539513832_c98332f4","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:42.616Z"}
+{"level":"info","message":"New round started: round_1753539523715_2bc82163, crash point: 4.953031703270099","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:43.761Z"}
+{"level":"info","message":"Game phase started for round: round_1753539523715_2bc82163","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:46.814Z"}
+{"level":"info","message":"Round ended: round_1753539523715_2bc82163","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:53.812Z"}
+{"level":"info","message":"New round started: round_1753539533816_db8da987, crash point: 4.444642103917773","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:53.888Z"}
+{"level":"info","message":"Game phase started for round: round_1753539533816_db8da987","service":"crypto-crash-backend","timestamp":"2025-07-26T14:18:56.950Z"}
+{"level":"info","message":"Round ended: round_1753539533816_db8da987","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:03.779Z"}
+{"level":"error","message":"Safe save error: Can't save() the same doc multiple times in parallel. Document: 6884e3d79deb855fd003405e","service":"crypto-crash-backend","stack":"ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 6884e3d79deb855fd003405e\n    at model.save (C:\\Users\\sazid\\Desktop\\project\\node_modules\\mongoose\\lib\\model.js:617:20)\n    at GameManager.safeSave (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:282:22)\n    at GameManager.endRound (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:142:16)\n    at GameManager.crashGame (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:119:16)\n    at GameManager.updateMultiplier (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:103:12)\n    at Timeout._onTimeout (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:87:54)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2025-07-26T14:19:03.798Z"}
+{"level":"info","message":"Round ended: round_1753539543782_5203c5b8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:03.840Z"}
+{"level":"info","message":"Game crashed at 1.4459606258957933x for round: round_1753539543782_5203c5b8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:03.858Z"}
+{"level":"info","message":"New round started: round_1753539543782_5203c5b8, crash point: 1.4459606258957933","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:03.868Z"}
+{"level":"info","message":"Game phase started for round: round_1753539543782_5203c5b8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:06.978Z"}
+{"level":"info","message":"Round ended: round_1753539543782_5203c5b8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:11.385Z"}
+{"level":"info","message":"Game crashed at 1.4459606258957933x for round: round_1753539543782_5203c5b8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:11.387Z"}
+{"level":"info","message":"New round started: round_1753539553733_2ee9e9e5, crash point: 4.089807273310408","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:13.783Z"}
+{"level":"info","message":"Game phase started for round: round_1753539553733_2ee9e9e5","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:16.853Z"}
+{"level":"info","message":"Round ended: round_1753539553733_2ee9e9e5","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:23.797Z"}
+{"level":"info","message":"New round started: round_1753539563800_1566175e, crash point: 7.073667148734666","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:23.859Z"}
+{"level":"info","message":"Game phase started for round: round_1753539563800_1566175e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:26.940Z"}
+{"level":"info","message":"Round ended: round_1753539563800_1566175e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:33.813Z"}
+{"level":"info","message":"New round started: round_1753539573858_b973e2a8, crash point: 7.796205240517891","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:34.007Z"}
+{"level":"info","message":"Game phase started for round: round_1753539573858_b973e2a8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:37.099Z"}
+{"level":"info","message":"Round ended: round_1753539573858_b973e2a8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:43.857Z"}
+{"level":"error","message":"Safe save error: Can't save() the same doc multiple times in parallel. Document: 6884e3ff9deb855fd003406e","service":"crypto-crash-backend","stack":"ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 6884e3ff9deb855fd003406e\n    at model.save (C:\\Users\\sazid\\Desktop\\project\\node_modules\\mongoose\\lib\\model.js:617:20)\n    at GameManager.safeSave (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:282:22)\n    at GameManager.endRound (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:142:16)\n    at GameManager.crashGame (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:119:16)\n    at GameManager.updateMultiplier (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:103:12)\n    at Timeout._onTimeout (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:87:54)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2025-07-26T14:19:43.992Z"}
+{"level":"info","message":"Round ended: round_1753539583948_b26ec074","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:43.997Z"}
+{"level":"info","message":"Game crashed at 1.060715972633985x for round: round_1753539583948_b26ec074","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:44.009Z"}
+{"level":"info","message":"New round started: round_1753539583948_b26ec074, crash point: 1.060715972633985","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:44.034Z"}
+{"level":"info","message":"Game phase started for round: round_1753539583948_b26ec074","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:47.086Z"}
+{"level":"info","message":"Round ended: round_1753539583948_b26ec074","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:47.758Z"}
+{"level":"info","message":"Game crashed at 1.060715972633985x for round: round_1753539583948_b26ec074","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:47.762Z"}
+{"level":"info","message":"New round started: round_1753539593773_ae721bcb, crash point: 7.44762069356111","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:53.823Z"}
+{"level":"info","message":"Game phase started for round: round_1753539593773_ae721bcb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:19:56.888Z"}
+{"level":"info","message":"Round ended: round_1753539593773_ae721bcb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:03.915Z"}
+{"level":"info","message":"New round started: round_1753539603917_9d68416a, crash point: 14.851016969661618","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:03.983Z"}
+{"level":"info","message":"Game phase started for round: round_1753539603917_9d68416a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:07.069Z"}
+{"level":"info","message":"Round ended: round_1753539603917_9d68416a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:13.842Z"}
+{"level":"info","message":"New round started: round_1753539613846_5ecdf63c, crash point: 3.3592471133802766","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:13.894Z"}
+{"level":"info","message":"Game phase started for round: round_1753539613846_5ecdf63c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:16.953Z"}
+{"level":"info","message":"Round ended: round_1753539613846_5ecdf63c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:23.856Z"}
+{"level":"info","message":"New round started: round_1753539623857_f4620500, crash point: 11.49923177902509","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:23.905Z"}
+{"level":"info","message":"Game phase started for round: round_1753539623857_f4620500","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:26.954Z"}
+{"level":"info","message":"Round ended: round_1753539623857_f4620500","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:33.871Z"}
+{"level":"info","message":"New round started: round_1753539633871_0e749f24, crash point: 2.2138852378773075","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:33.917Z"}
+{"level":"info","message":"Game phase started for round: round_1753539633871_0e749f24","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:36.969Z"}
+{"level":"info","message":"Round ended: round_1753539633871_0e749f24","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:43.889Z"}
+{"level":"info","message":"New round started: round_1753539643902_52a7fb57, crash point: 12.027186689962011","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:43.949Z"}
+{"level":"info","message":"Game phase started for round: round_1753539643902_52a7fb57","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:46.996Z"}
+{"level":"info","message":"Round ended: round_1753539643902_52a7fb57","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:53.890Z"}
+{"level":"info","message":"New round started: round_1753539653891_95b4cbb1, crash point: 4.954124235369467","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:53.938Z"}
+{"level":"info","message":"Game phase started for round: round_1753539653891_95b4cbb1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:20:56.985Z"}
+{"level":"info","message":"Round ended: round_1753539653891_95b4cbb1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:03.925Z"}
+{"level":"info","message":"New round started: round_1753539663926_ff86dcbe, crash point: 2.9259360663724463","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:03.975Z"}
+{"level":"info","message":"Game phase started for round: round_1753539663926_ff86dcbe","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:07.033Z"}
+{"level":"info","message":"Round ended: round_1753539663926_ff86dcbe","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:13.929Z"}
+{"level":"info","message":"New round started: round_1753539673948_16356029, crash point: 5.997387503806701","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:14.006Z"}
+{"level":"info","message":"Game phase started for round: round_1753539673948_16356029","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:17.070Z"}
+{"level":"info","message":"Round ended: round_1753539673948_16356029","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:23.946Z"}
+{"level":"info","message":"New round started: round_1753539683948_fc3c5e2f, crash point: 20.44309121117831","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:23.999Z"}
+{"level":"info","message":"Game phase started for round: round_1753539683948_fc3c5e2f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:27.045Z"}
+{"level":"info","message":"Round ended: round_1753539683948_fc3c5e2f","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:33.949Z"}
+{"level":"error","message":"Safe save error: Can't save() the same doc multiple times in parallel. Document: 6884e46e9deb855fd003409a","service":"crypto-crash-backend","stack":"ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 6884e46e9deb855fd003409a\n    at model.save (C:\\Users\\sazid\\Desktop\\project\\node_modules\\mongoose\\lib\\model.js:617:20)\n    at GameManager.safeSave (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:282:22)\n    at GameManager.endRound (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:142:16)\n    at GameManager.crashGame (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:119:16)\n    at GameManager.updateMultiplier (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:103:12)\n    at Timeout._onTimeout (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:87:54)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2025-07-26T14:21:34.031Z"}
+{"level":"info","message":"Round ended: round_1753539694005_b04c5c8d","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:34.098Z"}
+{"level":"info","message":"Game crashed at 1.2765841936786069x for round: round_1753539694005_b04c5c8d","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:34.143Z"}
+{"level":"info","message":"New round started: round_1753539694005_b04c5c8d, crash point: 1.2765841936786069","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:34.151Z"}
+{"level":"info","message":"Game phase started for round: round_1753539694005_b04c5c8d","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:37.197Z"}
+{"level":"info","message":"Round ended: round_1753539694005_b04c5c8d","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:40.021Z"}
+{"level":"info","message":"Game crashed at 1.2765841936786069x for round: round_1753539694005_b04c5c8d","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:40.025Z"}
+{"level":"info","message":"New round started: round_1753539703905_047d31ab, crash point: 1.7801333739303087","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:43.949Z"}
+{"level":"info","message":"Game phase started for round: round_1753539703905_047d31ab","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:47.010Z"}
+{"level":"info","message":"Round ended: round_1753539703905_047d31ab","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:54.257Z"}
+{"level":"info","message":"New round started: round_1753539714259_7aff76fb, crash point: 8.826882598909616","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:54.305Z"}
+{"level":"info","message":"Game phase started for round: round_1753539714259_7aff76fb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:21:57.363Z"}
+{"level":"info","message":"Round ended: round_1753539714259_7aff76fb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:03.965Z"}
+{"level":"info","message":"New round started: round_1753539723966_fdc409b7, crash point: 8.049742503467993","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:04.011Z"}
+{"level":"info","message":"Game phase started for round: round_1753539723966_fdc409b7","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:07.065Z"}
+{"level":"info","message":"Round ended: round_1753539723966_fdc409b7","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:13.983Z"}
+{"level":"info","message":"New round started: round_1753539733984_50758792, crash point: 15.42610603209944","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:14.028Z"}
+{"level":"info","message":"Game phase started for round: round_1753539733984_50758792","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:17.086Z"}
+{"level":"info","message":"Round ended: round_1753539733984_50758792","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:23.989Z"}
+{"level":"info","message":"New round started: round_1753539743990_7d27e97c, crash point: 9.909075715883073","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:24.036Z"}
+{"level":"info","message":"Game phase started for round: round_1753539743990_7d27e97c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:27.085Z"}
+{"level":"info","message":"Round ended: round_1753539743990_7d27e97c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:33.988Z"}
+{"level":"info","message":"New round started: round_1753539753989_ca8258d3, crash point: 9.14737054537335","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:34.034Z"}
+{"level":"info","message":"Game phase started for round: round_1753539753989_ca8258d3","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:37.099Z"}
+{"level":"info","message":"Round ended: round_1753539753989_ca8258d3","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:44.003Z"}
+{"level":"info","message":"New round started: round_1753539764004_5f0c49a9, crash point: 8.303805548718563","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:44.050Z"}
+{"level":"info","message":"Game phase started for round: round_1753539764004_5f0c49a9","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:47.101Z"}
+{"level":"info","message":"Round ended: round_1753539764004_5f0c49a9","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:54.019Z"}
+{"level":"info","message":"New round started: round_1753539774020_bd039c12, crash point: 3.3333923064617608","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:54.070Z"}
+{"level":"info","message":"Game phase started for round: round_1753539774020_bd039c12","service":"crypto-crash-backend","timestamp":"2025-07-26T14:22:57.121Z"}
+{"level":"info","message":"Round ended: round_1753539774020_bd039c12","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:04.012Z"}
+{"level":"info","message":"New round started: round_1753539784013_61c85829, crash point: 5.797987072125115","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:04.058Z"}
+{"level":"info","message":"Game phase started for round: round_1753539784013_61c85829","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:07.115Z"}
+{"level":"info","message":"Round ended: round_1753539784013_61c85829","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:14.022Z"}
+{"level":"info","message":"New round started: round_1753539794047_78058c0e, crash point: 47.31038555756879","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:14.093Z"}
+{"level":"info","message":"Game phase started for round: round_1753539794047_78058c0e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:17.144Z"}
+{"level":"info","message":"Round ended: round_1753539794047_78058c0e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:24.034Z"}
+{"level":"info","message":"New round started: round_1753539804035_3830122c, crash point: 21.090960182820943","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:24.084Z"}
+{"level":"info","message":"Game phase started for round: round_1753539804035_3830122c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:27.136Z"}
+{"level":"info","message":"Round ended: round_1753539804035_3830122c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:34.086Z"}
+{"level":"info","message":"New round started: round_1753539814121_d436d960, crash point: 11.701339192777933","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:34.170Z"}
+{"level":"info","message":"Game phase started for round: round_1753539814121_d436d960","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:37.223Z"}
+{"level":"info","message":"Round ended: round_1753539814121_d436d960","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:44.059Z"}
+{"level":"info","message":"New round started: round_1753539824060_2c273f9a, crash point: 7.6906304469240245","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:44.144Z"}
+{"level":"info","message":"Game phase started for round: round_1753539824060_2c273f9a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:47.204Z"}
+{"level":"info","message":"Round ended: round_1753539824060_2c273f9a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:54.151Z"}
+{"level":"info","message":"New round started: round_1753539834152_bc7f9a06, crash point: 2.9328634653183223","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:54.202Z"}
+{"level":"info","message":"Game phase started for round: round_1753539834152_bc7f9a06","service":"crypto-crash-backend","timestamp":"2025-07-26T14:23:57.252Z"}
+{"level":"info","message":"Round ended: round_1753539834152_bc7f9a06","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:04.077Z"}
+{"level":"info","message":"New round started: round_1753539844078_26ed4920, crash point: 12.777855459134525","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:04.127Z"}
+{"level":"info","message":"Game phase started for round: round_1753539844078_26ed4920","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:07.185Z"}
+{"level":"info","message":"Round ended: round_1753539844078_26ed4920","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:14.098Z"}
+{"level":"info","message":"New round started: round_1753539854100_84b7d9eb, crash point: 5.106146878905671","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:14.148Z"}
+{"level":"info","message":"Game phase started for round: round_1753539854100_84b7d9eb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:17.207Z"}
+{"level":"info","message":"Round ended: round_1753539854100_84b7d9eb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:24.119Z"}
+{"level":"error","message":"Safe save error: Can't save() the same doc multiple times in parallel. Document: 6884e5189deb855fd00340de","service":"crypto-crash-backend","stack":"ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 6884e5189deb855fd00340de\n    at model.save (C:\\Users\\sazid\\Desktop\\project\\node_modules\\mongoose\\lib\\model.js:617:20)\n    at GameManager.safeSave (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:282:22)\n    at GameManager.endRound (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:142:16)\n    at GameManager.crashGame (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:119:16)\n    at GameManager.updateMultiplier (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:103:12)\n    at Timeout._onTimeout (C:\\Users\\sazid\\Desktop\\project\\services\\GameManager.js:87:54)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2025-07-26T14:24:24.140Z"}
+{"level":"info","message":"Round ended: round_1753539864122_4cf7bfcc","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:24.153Z"}
+{"level":"info","message":"Game crashed at 1.5779809066073445x for round: round_1753539864122_4cf7bfcc","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:24.156Z"}
+{"level":"info","message":"New round started: round_1753539864122_4cf7bfcc, crash point: 1.5779809066073445","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:24.179Z"}
+{"level":"info","message":"Game phase started for round: round_1753539864122_4cf7bfcc","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:27.231Z"}
+{"level":"info","message":"Round ended: round_1753539864122_4cf7bfcc","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:33.050Z"}
+{"level":"info","message":"Game crashed at 1.5779809066073445x for round: round_1753539864122_4cf7bfcc","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:33.067Z"}
+{"level":"info","message":"New round started: round_1753539874063_20f96a0c, crash point: 14.533242095674396","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:34.109Z"}
+{"level":"info","message":"Game phase started for round: round_1753539874063_20f96a0c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:37.158Z"}
+{"level":"info","message":"Round ended: round_1753539874063_20f96a0c","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:44.128Z"}
+{"level":"info","message":"New round started: round_1753539884130_e4da1738, crash point: 8.659235720846066","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:44.185Z"}
+{"level":"info","message":"Game phase started for round: round_1753539884130_e4da1738","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:47.233Z"}
+{"level":"info","message":"Round ended: round_1753539884130_e4da1738","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:54.136Z"}
+{"level":"info","message":"New round started: round_1753539894137_367e41d6, crash point: 15.175087846217679","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:54.185Z"}
+{"level":"info","message":"Game phase started for round: round_1753539894137_367e41d6","service":"crypto-crash-backend","timestamp":"2025-07-26T14:24:57.233Z"}
+{"level":"info","message":"Round ended: round_1753539894137_367e41d6","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:04.153Z"}
+{"level":"info","message":"New round started: round_1753539904156_9bcba7f8, crash point: 2.920044288435693","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:04.207Z"}
+{"level":"info","message":"Game phase started for round: round_1753539904156_9bcba7f8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:07.332Z"}
+{"level":"info","message":"Round ended: round_1753539904156_9bcba7f8","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:14.161Z"}
+{"level":"info","message":"New round started: round_1753539914162_8e7cd298, crash point: 5.098052446655983","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:14.216Z"}
+{"level":"info","message":"Game phase started for round: round_1753539914162_8e7cd298","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:17.269Z"}
+{"level":"info","message":"Round ended: round_1753539914162_8e7cd298","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:24.169Z"}
+{"level":"info","message":"New round started: round_1753539924171_4855fe25, crash point: 24.29052542906665","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:24.219Z"}
+{"level":"info","message":"Game phase started for round: round_1753539924171_4855fe25","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:27.305Z"}
+{"level":"info","message":"Round ended: round_1753539924171_4855fe25","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:34.174Z"}
+{"level":"info","message":"New round started: round_1753539934177_e59f4246, crash point: 9.98752256826615","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:34.225Z"}
+{"level":"info","message":"Game phase started for round: round_1753539934177_e59f4246","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:37.286Z"}
+{"level":"info","message":"Round ended: round_1753539934177_e59f4246","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:44.184Z"}
+{"level":"info","message":"New round started: round_1753539944208_67c1ff09, crash point: 4.364124867183529","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:44.260Z"}
+{"level":"info","message":"Game phase started for round: round_1753539944208_67c1ff09","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:47.315Z"}
+{"level":"info","message":"Round ended: round_1753539944208_67c1ff09","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:54.187Z"}
+{"level":"info","message":"New round started: round_1753539954188_698dc37a, crash point: 5.1222550553568995","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:54.237Z"}
+{"level":"info","message":"Game phase started for round: round_1753539954188_698dc37a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:25:57.287Z"}
+{"level":"info","message":"Round ended: round_1753539954188_698dc37a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:04.194Z"}
+{"level":"info","message":"New round started: round_1753539964195_a1b1a56a, crash point: 2.1215134343306943","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:04.243Z"}
+{"level":"info","message":"Game phase started for round: round_1753539964195_a1b1a56a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:07.301Z"}
+{"level":"info","message":"Round ended: round_1753539964195_a1b1a56a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:14.205Z"}
+{"level":"info","message":"New round started: round_1753539974206_c935256d, crash point: 17.77703215631773","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:14.254Z"}
+{"level":"info","message":"Game phase started for round: round_1753539974206_c935256d","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:17.299Z"}
+{"level":"info","message":"Round ended: round_1753539974206_c935256d","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:24.208Z"}
+{"level":"info","message":"New round started: round_1753539984210_ba3750e6, crash point: 10.597420061934395","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:24.257Z"}
+{"level":"info","message":"Game phase started for round: round_1753539984210_ba3750e6","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:27.310Z"}
+{"level":"info","message":"Round ended: round_1753539984210_ba3750e6","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:34.218Z"}
+{"level":"info","message":"New round started: round_1753539994218_92cc080a, crash point: 19.287189578449716","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:34.263Z"}
+{"level":"info","message":"Game phase started for round: round_1753539994218_92cc080a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:37.313Z"}
+{"level":"info","message":"Round ended: round_1753539994218_92cc080a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:44.226Z"}
+{"level":"info","message":"New round started: round_1753540004227_c81b0c38, crash point: 7.744015479261731","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:44.272Z"}
+{"level":"info","message":"Game phase started for round: round_1753540004227_c81b0c38","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:47.328Z"}
+{"level":"info","message":"Round ended: round_1753540004227_c81b0c38","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:54.240Z"}
+{"level":"info","message":"New round started: round_1753540014241_e5cc95e5, crash point: 11.859513422067097","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:54.285Z"}
+{"level":"info","message":"Game phase started for round: round_1753540014241_e5cc95e5","service":"crypto-crash-backend","timestamp":"2025-07-26T14:26:57.349Z"}
+{"level":"info","message":"Round ended: round_1753540014241_e5cc95e5","service":"crypto-crash-backend","timestamp":"2025-07-26T14:27:04.545Z"}
+{"level":"info","message":"New round started: round_1753540024698_60eba558, crash point: 4.127189375258024","service":"crypto-crash-backend","timestamp":"2025-07-26T14:27:04.777Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T14:27:17.641Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T14:27:17.773Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T14:27:17.777Z"}
+{"level":"info","message":"GET /.well-known/appspecific/com.chrome.devtools.json - ::ffff:127.0.0.1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:27:18.471Z"}
+{"level":"info","message":"GET /.well-known/appspecific/com.chrome.devtools.json - ::ffff:127.0.0.1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:27:18.526Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T14:27:19.188Z"}
+{"level":"info","message":"New round started: round_1753540037667_d4ccafeb, crash point: 10.814777564319824","service":"crypto-crash-backend","timestamp":"2025-07-26T14:27:19.292Z"}
+{"level":"info","message":"Client connected: ilptOdCLUXpbHL_iAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:27:20.357Z"}
+{"level":"info","message":"Game phase started for round: round_1753540037667_d4ccafeb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:27:22.377Z"}
+{"level":"info","message":"Round ended: round_1753540037667_d4ccafeb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:00.615Z"}
+{"level":"info","message":"Game crashed at 10.814777564319824x for round: round_1753540037667_d4ccafeb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:00.619Z"}
+{"level":"info","message":"New round started: round_1753540143625_62913742, crash point: 2.415029699244548","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:03.688Z"}
+{"level":"info","message":"Game phase started for round: round_1753540143625_62913742","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:06.757Z"}
+{"level":"info","message":"Client disconnected: ilptOdCLUXpbHL_iAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:08.579Z"}
+{"level":"info","message":"GET /api/game/history - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:09.169Z"}
+{"level":"info","message":"Client connected: EkKIGgWpMgpcngZsAAAD","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:12.992Z"}
+{"level":"info","message":"New player created: player_1753540152970_x5i5thab1 (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:13.225Z"}
+{"level":"info","message":"Player joined: player_1753540152970_x5i5thab1 (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:13.230Z"}
+{"level":"info","message":"Round ended: round_1753540143625_62913742","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:20.973Z"}
+{"level":"info","message":"Game crashed at 2.415029699244548x for round: round_1753540143625_62913742","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:20.975Z"}
+{"level":"info","message":"New round started: round_1753540163980_394b7fc7, crash point: 6.47848157947638","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:24.044Z"}
+{"level":"info","message":"Bet handled via WebSocket: player_1753540152970_x5i5thab1 - $12","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:26.026Z"}
+{"level":"info","message":"GET /api/wallet/balance/player_1753540152970_x5i5thab1 - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:26.039Z"}
+{"level":"info","message":"Fetched price for BTC: $118167","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:26.645Z"}
+{"level":"info","message":"Fetched price for ETH: $3741.15","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:26.989Z"}
+{"level":"info","message":"Game phase started for round: round_1753540163980_394b7fc7","service":"crypto-crash-backend","timestamp":"2025-07-26T14:29:27.106Z"}
+{"level":"info","message":"Round ended: round_1753540163980_394b7fc7","service":"crypto-crash-backend","timestamp":"2025-07-26T14:30:22.073Z"}
+{"level":"info","message":"Game crashed at 6.47848157947638x for round: round_1753540163980_394b7fc7","service":"crypto-crash-backend","timestamp":"2025-07-26T14:30:22.075Z"}
+{"level":"info","message":"New round started: round_1753540225084_861ef531, crash point: 8.889610288338499","service":"crypto-crash-backend","timestamp":"2025-07-26T14:30:25.136Z"}
+{"level":"info","message":"Bet handled via WebSocket: player_1753540152970_x5i5thab1 - $12","service":"crypto-crash-backend","timestamp":"2025-07-26T14:30:27.190Z"}
+{"level":"info","message":"GET /api/wallet/balance/player_1753540152970_x5i5thab1 - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:30:27.201Z"}
+{"level":"info","message":"Fetched price for BTC: $118155","service":"crypto-crash-backend","timestamp":"2025-07-26T14:30:27.685Z"}
+{"level":"info","message":"Fetched price for ETH: $3739.68","service":"crypto-crash-backend","timestamp":"2025-07-26T14:30:28.059Z"}
+{"level":"info","message":"Game phase started for round: round_1753540225084_861ef531","service":"crypto-crash-backend","timestamp":"2025-07-26T14:30:28.187Z"}
+{"level":"info","message":"Cashout handled via WebSocket: player_1753540152970_x5i5thab1 - 4.1989x","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:00.558Z"}
+{"level":"info","message":"GET /api/wallet/balance/player_1753540152970_x5i5thab1 - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:00.573Z"}
+{"level":"info","message":"Fetched price for BTC: $118155","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:00.805Z"}
+{"level":"info","message":"Fetched price for ETH: $3739.68","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:00.862Z"}
+{"level":"info","message":"GET /api/game/history - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:25.272Z"}
+{"level":"info","message":"Client connected: Y2aZguVO1Nxck85MAAAF","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:31.561Z"}
+{"level":"info","message":"New player created: player_1753540291537_4dqalpx3o (sazid)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:31.701Z"}
+{"level":"info","message":"Player joined: player_1753540291537_4dqalpx3o (sazid)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:31.707Z"}
+{"level":"info","message":"POST /api/wallet/deposit - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:40.741Z"}
+{"level":"info","message":"Fetched price for BTC: $118141","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:41.291Z"}
+{"level":"info","message":"Deposit processed: player_1753540291537_4dqalpx3o - 45 BTC","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:41.408Z"}
+{"level":"info","message":"GET /api/wallet/balance/player_1753540291537_4dqalpx3o - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:41.429Z"}
+{"level":"info","message":"Fetched price for ETH: $3738.1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:41.854Z"}
+{"level":"info","message":"Round ended: round_1753540225084_861ef531","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:47.145Z"}
+{"level":"info","message":"Game crashed at 8.889610288338499x for round: round_1753540225084_861ef531","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:47.148Z"}
+{"level":"info","message":"New round started: round_1753540310156_ee7d41bb, crash point: 8.136864155072658","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:50.233Z"}
+{"level":"info","message":"Game phase started for round: round_1753540310156_ee7d41bb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:31:53.285Z"}
+{"level":"info","message":"Round ended: round_1753540310156_ee7d41bb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:33:04.719Z"}
+{"level":"info","message":"Game crashed at 8.136864155072658x for round: round_1753540310156_ee7d41bb","service":"crypto-crash-backend","timestamp":"2025-07-26T14:33:04.721Z"}
+{"level":"info","message":"New round started: round_1753540387722_22190e0e, crash point: 17.42884826524977","service":"crypto-crash-backend","timestamp":"2025-07-26T14:33:07.775Z"}
+{"level":"info","message":"Fetched price for BTC: $118135","service":"crypto-crash-backend","timestamp":"2025-07-26T14:33:09.001Z"}
+{"level":"info","message":"Bet handled via WebSocket: player_1753540291537_4dqalpx3o - $1000","service":"crypto-crash-backend","timestamp":"2025-07-26T14:33:09.195Z"}
+{"level":"info","message":"GET /api/wallet/balance/player_1753540291537_4dqalpx3o - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:33:09.204Z"}
+{"level":"info","message":"Fetched price for BTC: $118135","service":"crypto-crash-backend","timestamp":"2025-07-26T14:33:09.306Z"}
+{"level":"info","message":"Fetched price for ETH: $3737.15","service":"crypto-crash-backend","timestamp":"2025-07-26T14:33:09.664Z"}
+{"level":"info","message":"Game phase started for round: round_1753540387722_22190e0e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:33:10.840Z"}
+{"level":"info","message":"Player disconnected: player_1753540152970_x5i5thab1 (EkKIGgWpMgpcngZsAAAD)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:34:59.069Z"}
+{"level":"info","message":"Round ended: round_1753540387722_22190e0e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:35:55.347Z"}
+{"level":"info","message":"Game crashed at 17.42884826524977x for round: round_1753540387722_22190e0e","service":"crypto-crash-backend","timestamp":"2025-07-26T14:35:55.348Z"}
+{"level":"info","message":"New round started: round_1753540558359_bd1fa12a, crash point: 7.344130977004086","service":"crypto-crash-backend","timestamp":"2025-07-26T14:35:58.416Z"}
+{"level":"info","message":"Game phase started for round: round_1753540558359_bd1fa12a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:36:01.488Z"}
+{"level":"info","message":"Round ended: round_1753540558359_bd1fa12a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:37:04.958Z"}
+{"level":"info","message":"Game crashed at 7.344130977004086x for round: round_1753540558359_bd1fa12a","service":"crypto-crash-backend","timestamp":"2025-07-26T14:37:04.959Z"}
+{"level":"info","message":"New round started: round_1753540627971_112c907b, crash point: 8.94475178945575","service":"crypto-crash-backend","timestamp":"2025-07-26T14:37:08.024Z"}
+{"level":"info","message":"Game phase started for round: round_1753540627971_112c907b","service":"crypto-crash-backend","timestamp":"2025-07-26T14:37:11.190Z"}
+{"level":"info","message":"Player disconnected: player_1753540291537_4dqalpx3o (Y2aZguVO1Nxck85MAAAF)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:37:21.217Z"}
+{"level":"info","message":"Game Manager starting...","service":"crypto-crash-backend","timestamp":"2025-07-26T14:38:22.074Z"}
+{"level":"info","message":"Crypto Crash server running on port 3000","service":"crypto-crash-backend","timestamp":"2025-07-26T14:38:22.138Z"}
+{"level":"info","message":"Environment: development","service":"crypto-crash-backend","timestamp":"2025-07-26T14:38:22.139Z"}
+{"level":"info","message":"MongoDB Connected: ac-c6czisj-shard-00-00.l4jotpk.mongodb.net","service":"crypto-crash-backend","timestamp":"2025-07-26T14:38:23.281Z"}
+{"level":"info","message":"New round started: round_1753540702083_77b5bf61, crash point: 5.229352899016317","service":"crypto-crash-backend","timestamp":"2025-07-26T14:38:23.389Z"}
+{"level":"info","message":"Game phase started for round: round_1753540702083_77b5bf61","service":"crypto-crash-backend","timestamp":"2025-07-26T14:38:26.461Z"}
+{"level":"info","message":"GET /api/game/history - ::1","service":"crypto-crash-backend","timestamp":"2025-07-26T14:38:31.292Z"}
+{"level":"info","message":"Client connected: NDFSVJ9Wr1u6wUeyAAAB","service":"crypto-crash-backend","timestamp":"2025-07-26T14:38:53.809Z"}
+{"level":"info","message":"New player created: player_1753540733773_r9cqcnlrg (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:38:54.018Z"}
+{"level":"info","message":"Player joined: player_1753540733773_r9cqcnlrg (Sugga)","service":"crypto-crash-backend","timestamp":"2025-07-26T14:38:54.026Z"}

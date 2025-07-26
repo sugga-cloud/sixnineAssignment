@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Crash - Real-time Multiplayer Game</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-rocket"></i>
+                    <span>Crypto Crash</span>
+                </div>
+                <div class="header-stats">
+                    <div class="stat-item">
+                        <span class="stat-label">Players Online</span>
+                        <span class="stat-value" id="playersOnline">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Round</span>
+                        <span class="stat-value" id="currentRound">-</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Game Area -->
+        <main class="main-content">
+            <!-- Game Display -->
+            <div class="game-section">
+                <div class="game-display">
+                    <div class="multiplier-container">
+                        <div class="multiplier-value" id="multiplierValue">1.00x</div>
+                        <div class="game-status" id="gameStatus">Waiting for next round...</div>
+                        <div class="countdown" id="countdown"></div>
+                    </div>
+                    
+                    <!-- Crash Animation -->
+                    <div class="crash-animation" id="crashAnimation">
+                        <i class="fas fa-explosion"></i>
+                        <span>CRASHED!</span>
+                    </div>
+                </div>
+
+                <!-- Game Controls -->
+                <div class="game-controls">
+                    <div class="bet-section">
+                        <div class="input-group">
+                            <label for="betAmount">Bet Amount (USD)</label>
+                            <input type="number" id="betAmount" placeholder="10.00" min="1" max="1000" step="0.01">
+                        </div>
+                        
+                        <div class="input-group">
+                            <label for="cryptocurrency">Cryptocurrency</label>
+                            <select id="cryptocurrency">
+                                <option value="BTC">Bitcoin (BTC)</option>
+                                <option value="ETH">Ethereum (ETH)</option>
+                                <option value="USDT">Tether (USDT)</option>
+                            </select>
+                        </div>
+
+                        <div class="control-buttons">
+                            <button id="placeBetBtn" class="btn btn-primary">
+                                <i class="fas fa-coins"></i>
+                                Place Bet
+                            </button>
+                            <button id="cashOutBtn" class="btn btn-success" disabled>
+                                <i class="fas fa-hand-paper"></i>
+                                Cash Out
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Auto Cashout -->
+                    <div class="auto-cashout">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="autoCashout">
+                            <span class="checkmark"></span>
+                            Auto Cash Out at
+                        </label>
+                        <input type="number" id="autoCashoutValue" placeholder="2.00" min="1.01" step="0.01" disabled>
+                        <span>x</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sidebar -->
+            <aside class="sidebar">
+                <!-- Player Info -->
+                <div class="player-info card">
+                    <h3>Player Info</h3>
+                    <div class="player-details">
+                        <div class="player-name">
+                            <input type="text" id="playerName" placeholder="Enter your name" maxlength="20">
+                            <button id="joinGameBtn" class="btn btn-secondary">Join Game</button>
+                        </div>
+                        <div class="connection-status" id="connectionStatus">
+                            <i class="fas fa-circle"></i>
+                            <span>Disconnected</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Wallet -->
+                <div class="wallet card">
+                    <h3>
+                        <i class="fas fa-wallet"></i>
+                        Wallet
+                        <button id="refreshWallet" class="btn-icon">
+                            <i class="fas fa-sync-alt"></i>
+                        </button>
+                    </h3>
+                    <div class="wallet-balances" id="walletBalances">
+                        <div class="balance-item">
+                            <span class="crypto-name">BTC</span>
+                            <span class="crypto-amount">0.00000000</span>
+                            <span class="usd-value">$0.00</span>
+                        </div>
+                        <div class="balance-item">
+                            <span class="crypto-name">ETH</span>
+                            <span class="crypto-amount">0.00000000</span>
+                            <span class="usd-value">$0.00</span>
+                        </div>
+                        <div class="balance-item">
+                            <span class="crypto-name">USDT</span>
+                            <span class="crypto-amount">1000.00000000</span>
+                            <span class="usd-value">$1000.00</span>
+                        </div>
+                    </div>
+                    <div class="wallet-total">
+                        <strong>Total: <span id="totalBalance">$1000.00</span></strong>
+                    </div>
+                    
+                    <!-- Add Funds -->
+                    <div class="add-funds">
+                        <h4>Add Funds (Simulated)</h4>
+                        <div class="add-funds-form">
+                            <input type="number" id="depositAmount" placeholder="Amount" min="1" step="0.01">
+                            <select id="depositCrypto">
+                                <option value="BTC">BTC</option>
+                                <option value="ETH">ETH</option>
+                                <option value="USDT">USDT</option>
+                            </select>
+                            <button id="depositBtn" class="btn btn-secondary">Deposit</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Live Players -->
+                <div class="live-players card">
+                    <h3>
+                        <i class="fas fa-users"></i>
+                        Live Players
+                    </h3>
+                    <div class="players-list" id="playersList">
+                        <div class="no-players">No active players</div>
+                    </div>
+                </div>
+
+                <!-- Recent Cashouts -->
+                <div class="recent-cashouts card">
+                    <h3>
+                        <i class="fas fa-trophy"></i>
+                        Recent Cashouts
+                    </h3>
+                    <div class="cashouts-list" id="cashoutsList">
+                        <div class="no-cashouts">No recent cashouts</div>
+                    </div>
+                </div>
+            </aside>
+        </main>
+
+        <!-- Game History -->
+        <section class="game-history">
+            <div class="history-header">
+                <h3>
+                    <i class="fas fa-history"></i>
+                    Game History
+                </h3>
+                <div class="history-stats">
+                    <span class="stat">Avg Crash: <span id="avgCrash">-</span></span>
+                    <span class="stat">Max Crash: <span id="maxCrash">-</span></span>
+                </div>
+            </div>
+            <div class="history-list" id="historyList">
+                <div class="loading">Loading history...</div>
+            </div>
+        </section>
+
+        <!-- Notifications -->
+        <div class="notifications" id="notifications"></div>
+
+        <!-- Modals -->
+        <div class="modal" id="crashModal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>Round Crashed!</h3>
+                    <button class="modal-close">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="crash-details">
+                        <div class="crash-multiplier">
+                            <span class="label">Crash Point:</span>
+                            <span class="value" id="crashPoint">-</span>
+                        </div>
+                        <div class="your-result" id="yourResult">
+                            <!-- Result will be populated by JS -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
